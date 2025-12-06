@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>BACHAT - Login</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body class="login-body">
+
+  <div class="login-box slide-in">
+    <div class="logo">BACHAT</div>
+
+    <input type="text" id="user" placeholder="Username">
+    <input type="password" id="pass" placeholder="Password">
+
+    <button class="login-btn" onclick="loginUser()">Login</button>
+  </div>
+
+  <script>
+    function loginUser() {
+      const u = document.getElementById("user").value.trim();
+      const p = document.getElementById("pass").value.trim();
+
+      if (u === "Farhan" && p === "Farhan1234") {
+        window.location.href = "index.html";
+      } else {
+        alert("Invalid login!");
+      }
+    }
+  </script>
+
+</body>
+
+</html>

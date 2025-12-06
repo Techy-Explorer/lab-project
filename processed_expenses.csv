@@ -1,0 +1,1304 @@
+Date,Mode,Category,Subcategory,Note,Amount,Income/Expense,Currency,Day,Month,Year,Anomaly
+2015-01-13 18:52:47,Cash,Food,,tea,34.5,Expense,PKR,13,1,2015,No
+2015-01-13 18:52:47,Cash,Other,,Internet renewal,1725.0,Expense,PKR,13,1,2015,No
+2015-01-14 12:42:56,Saving Bank account 1,Transportation,,travels - Mumbai to brc,2622.0,Expense,PKR,14,1,2015,No
+2015-01-14 15:35:57,Cash,Food,,Lunch - chicken fried rice + chicken soup,414.0,Expense,PKR,14,1,2015,No
+2015-01-14 23:38:24,Cash,Food,,3 bananas,44.85,Expense,PKR,14,1,2015,No
+2015-01-15 18:23:03,Cash,Food,,tea,34.5,Expense,PKR,15,1,2015,No
+2015-01-15 18:23:11,Cash,Transportation,,auto - Amit nagar to b45,345.0,Expense,PKR,15,1,2015,No
+2015-01-15 22:22:20,Cash,Food,,Ratri Bazar,534.75,Expense,PKR,15,1,2015,No
+2015-01-16 16:30:51,Cash,Transportation,,auto -  to race course,34.5,Expense,PKR,16,1,2015,No
+2015-01-16 16:32:42,Cash,Transportation,,auto - Alk to GTR,172.5,Expense,PKR,16,1,2015,No
+2015-01-16 16:33:49,Cash,Transportation,,auto - GTR to hospital,103.5,Expense,PKR,16,1,2015,No
+2015-01-18 07:31:42,Cash,Food,,milk half gold,100.05,Expense,PKR,18,1,2015,No
+2015-01-18 07:31:42,Cash,Food,,tea,27.6,Expense,PKR,18,1,2015,No
+2015-01-18 07:33:20,Cash,Food,,vegetable,207.0,Expense,PKR,18,1,2015,No
+2015-01-19 07:34:00,Cash,Food,,milk half gold,100.05,Expense,PKR,19,1,2015,No
+2015-01-20 09:32:18,Cash,Food,,srikhand,224.25,Expense,PKR,20,1,2015,No
+2015-01-21 09:05:41,Cash,Food,,shev,172.5,Expense,PKR,21,1,2015,No
+2015-01-21 09:32:34,Cash,Food,,milk half gold,96.6,Expense,PKR,21,1,2015,No
+2015-01-21 13:11:41,Credit Card,Transportation,,train - brc to mmct,476.1,Expense,PKR,21,1,2015,No
+2015-01-21 13:12:12,Cash,Transportation,,train - bdts to brc,910.8,Expense,PKR,21,1,2015,No
+2015-01-21 18:17:03,Cash,Food,,samosa + 2 tea,93.15,Expense,PKR,21,1,2015,No
+2015-01-21 18:17:03,Cash,Household,,broom,207.0,Expense,PKR,21,1,2015,No
+2015-01-21 18:17:03,Cash,Food,,grocery,414.0,Expense,PKR,21,1,2015,No
+2015-01-22 16:44:45,Cash,Food,,snacks,113.85,Expense,PKR,22,1,2015,No
+2015-01-22 16:44:45,Cash,Food,,tea,69.0,Expense,PKR,22,1,2015,No
+2015-01-24 16:17:57,Cash,Food,,tea,103.5,Expense,PKR,24,1,2015,No
+2015-01-25 18:45:56,Cash,Beauty,,hair cut,207.0,Expense,PKR,25,1,2015,No
+2015-01-26 07:40:05,Credit Card,Food,,grocery,1072.95,Expense,PKR,26,1,2015,No
+2015-01-26 07:42:43,Cash,Food,,paav,103.5,Expense,PKR,26,1,2015,No
+2015-01-26 19:39:39,Cash,Food,,milk half shakti,89.7,Expense,PKR,26,1,2015,No
+2015-01-27 18:34:10,Cash,Food,,tea,103.5,Expense,PKR,27,1,2015,No
+2015-01-27 18:34:20,Cash,Food,,chana chat,51.75,Expense,PKR,27,1,2015,No
+2015-01-29 07:30:48,Cash,Food,,samosa,51.75,Expense,PKR,29,1,2015,No
+2015-01-29 07:30:48,Cash,Food,,good day biscuits,131.1,Expense,PKR,29,1,2015,No
+2015-01-29 07:30:48,Cash,Food,,milk half shakti,89.7,Expense,PKR,29,1,2015,No
+2015-01-30 23:10:04,Cash,Food,,dinner treat,3463.8,Expense,PKR,30,1,2015,No
+2015-01-30 23:10:04,Cash,Transportation,,auto - Genda circle to b45,345.0,Expense,PKR,30,1,2015,No
+2015-01-31 16:14:27,Cash,Food,,bananas,69.0,Expense,PKR,31,1,2015,No
+2015-01-31 16:14:27,Cash,Food,,bhindi,138.0,Expense,PKR,31,1,2015,No
+2015-02-13 09:08:59,Cash,Food,,milk half shakti,93.15,Expense,PKR,13,2,2015,No
+2015-02-13 09:08:59,Saving Bank account 1,Food,,chana chat + tea,72.45,Expense,PKR,13,2,2015,No
+2015-02-15 08:40:08,Cash,Food,,bread,51.75,Expense,PKR,15,2,2015,No
+2015-02-15 08:40:26,Cash,Food,,tea,69.0,Expense,PKR,15,2,2015,No
+2015-02-15 19:54:13,Cash,Transportation,,taxi - dadar to vadala road,117.3,Expense,PKR,15,2,2015,No
+2015-02-15 19:54:41,Cash,Transportation,,local - vadala road to Place 0,51.75,Expense,PKR,15,2,2015,No
+2015-02-15 19:55:31,Cash,Food,,pani puri,69.0,Expense,PKR,15,2,2015,No
+2015-02-15 19:57:00,Cash,Other,,Internet renewal,1725.0,Expense,PKR,15,2,2015,No
+2015-02-15 21:37:45,Cash,Household,,mixer repair,862.5,Expense,PKR,15,2,2015,No
+2015-02-16 10:18:40,Cash,Transportation,,local - Place 0 to Place 5 return,103.5,Expense,PKR,16,2,2015,No
+2015-02-16 11:38:58,Saving Bank account 1,Food,,kaju katli 250gm,859.0500000000001,Expense,PKR,16,2,2015,No
+2015-02-17 08:20:06,Cash,Food,,dinner,783.1500000000001,Expense,PKR,17,2,2015,No
+2015-02-19 11:38:58,Cash,Food,,milk 1lit ,207.0,Expense,PKR,19,2,2015,No
+2015-02-19 20:51:37,Cash,Health,Medicine,koflet,117.3,Expense,PKR,19,2,2015,No
+2015-02-19 20:52:01,Cash,Health,Health,face mask,155.25,Expense,PKR,19,2,2015,No
+2015-02-23 09:19:54,Saving Bank account 1,Other,,splitwise settlement,14207.1,Expense,PKR,23,2,2015,No
+2015-02-23 15:43:13,Credit Card,Transportation,train,to and fro Mum to BRC,1814.7,Expense,PKR,23,2,2015,No
+2015-02-23 18:39:59,Cash,Apparel,Footwear,shoe polish,69.0,Expense,PKR,23,2,2015,No
+2015-02-23 19:37:47,Cash,Transportation,Train,Place 0 to Bandra,69.0,Expense,PKR,23,2,2015,No
+2015-02-23 21:15:40,Cash,Transportation,auto,Bandra to Bandra terminus,69.0,Expense,PKR,23,2,2015,No
+2015-02-24 05:46:53,Cash,Food,Tea,,34.5,Expense,PKR,24,2,2015,No
+2015-02-24 05:47:03,Cash,Transportation,auto,ola auto - BRC to b45,227.7,Expense,PKR,24,2,2015,No
+2015-02-24 22:10:01,Cash,Food,Grocery,vegetable,552.0,Expense,PKR,24,2,2015,No
+2015-02-26 20:05:31,Cash,Food,Milk,,89.7,Expense,PKR,26,2,2015,No
+2015-02-26 20:05:39,Cash,Food,Grocery,eggs,103.5,Expense,PKR,26,2,2015,No
+2015-02-26 20:06:17,Cash,Food,Tea,,20.700000000000003,Expense,PKR,26,2,2015,No
+2015-02-26 20:06:17,Cash,Transportation,auto,office to vasna road,207.0,Expense,PKR,26,2,2015,No
+2015-02-28 11:33:42,Cash,Food,Milk,,89.7,Expense,PKR,28,2,2015,No
+2015-02-28 17:30:58,Saving Bank account 1,Salary,,From workplace ,171830.7,Income,PKR,28,2,2015,No
+2015-02-28 17:48:39,Cash,Food,Tea,,69.0,Expense,PKR,28,2,2015,No
+2015-02-28 17:48:39,Cash,Food,Lunch,chicken thali,189.75,Expense,PKR,28,2,2015,No
+2015-03-13 15:01:05,Cash,Transportation,auto,to office,34.5,Expense,PKR,13,3,2015,No
+2015-03-14 09:11:06,Cash,Food,Milk,,89.7,Expense,PKR,14,3,2015,No
+2015-03-14 19:21:18,Cash,Apparel,Laundry,ironing,138.0,Expense,PKR,14,3,2015,No
+2015-03-15 18:38:29,Cash,Food,Milk,shakti + bread,124.2,Expense,PKR,15,3,2015,No
+2015-03-15 18:38:44,Cash,Other,,cycle air pumping,17.25,Expense,PKR,15,3,2015,No
+2015-03-15 18:39:12,Cash,Apparel,Clothing,altering,103.5,Expense,PKR,15,3,2015,No
+2015-03-16 16:38:08,Cash,Food,Tea,,69.0,Expense,PKR,16,3,2015,No
+2015-03-16 21:30:08,Cash,Health,Hospital,dentist check-up,3450.0,Expense,PKR,16,3,2015,No
+2015-03-17 16:21:18,Cash,Other,,laptop repair,1552.5,Expense,PKR,17,3,2015,No
+2015-03-18 09:25:24,Cash,Food,Milk,,89.7,Expense,PKR,18,3,2015,No
+2015-03-18 10:56:33,Cash,Food,breakfast,aloo paratha,69.0,Expense,PKR,18,3,2015,No
+2015-03-18 13:22:02,Cash,Food,Lunch,dal fry and chapati,86.25,Expense,PKR,18,3,2015,No
+2015-03-18 18:27:14,Cash,Food,snacks,samosa+tea+veg cheese grill sandwich,182.85,Expense,PKR,18,3,2015,No
+2015-03-19 16:08:23,Cash,Household,Kitchen,cooker ring,172.5,Expense,PKR,19,3,2015,No
+2015-03-20 19:08:18,Credit Card,Health,Hospital,dentist check-up,12765.0,Expense,PKR,20,3,2015,No
+2015-03-20 21:36:58,Cash,Apparel,Laundry,dry cleaning,345.0,Expense,PKR,20,3,2015,No
+2015-03-23 13:17:56,Cash,water (jar /tanker),,refilling,69.0,Expense,PKR,23,3,2015,No
+2015-03-23 13:19:44,Credit Card,Food,Grocery,,1496.61,Expense,PKR,23,3,2015,No
+2015-03-24 08:52:41,Cash,Food,Milk,,89.7,Expense,PKR,24,3,2015,No
+2015-03-25 14:02:02,Cash,water (jar /tanker),,,69.0,Expense,PKR,25,3,2015,No
+2015-03-29 20:06:39,Cash,Food,Grocery,,517.5,Expense,PKR,29,3,2015,No
+2015-03-29 20:08:01,Cash,Health,Medicine,kala hit,928.05,Expense,PKR,29,3,2015,No
+2015-03-31 13:00:05,Saving Bank account 1,Salary,,From workplace ,244280.7,Income,PKR,31,3,2015,Yes
+2015-04-13 12:24:47,Saving Bank account 1,Recurring Deposit,,,3450.0,Expense,PKR,13,4,2015,No
+2015-04-13 12:24:47,Saving Bank account 1,Investment,Mutual fund, mutual fund,3450.0,Expense,PKR,13,4,2015,No
+2015-04-14 12:24:47,Saving Bank account 1,Other,,covid19 donation to PM fund,1725.0,Expense,PKR,14,4,2015,No
+2015-04-18 10:33:25,Saving Bank account 1,Food,Grocery,snacks,1117.8,Expense,PKR,18,4,2015,No
+2015-04-18 10:33:50,Saving Bank account 1,Other,,hair oil,621.0,Expense,PKR,18,4,2015,No
+2015-04-23 13:00:42,Cash,Food,Milk,milk half gold,193.2,Expense,PKR,23,4,2015,No
+2015-04-24 09:25:33,Saving Bank account 1,Food,Grocery,snacks + veggie,1449.0,Expense,PKR,24,4,2015,No
+2015-04-26 09:06:04,Saving Bank account 1,Food,Dinner,srikhand,393.3,Expense,PKR,26,4,2015,No
+2015-04-26 10:48:00,Saving Bank account 1,Food,Grocery,eggs + bread,379.5,Expense,PKR,26,4,2015,No
+2015-04-26 10:48:25,Cash,Other,,stationary (drawing book + black sketch pen),203.55,Expense,PKR,26,4,2015,No
+2015-04-28 08:43:51,Cash,Food,Milk,milk half gold,96.6,Expense,PKR,28,4,2015,No
+2015-04-28 15:44:31,Saving Bank account 1,Salary,,From workplace ,170105.7,Income,PKR,28,4,2015,No
+2015-05-13 08:31:49,Saving Bank account 1,Food,Milk,milk half shakti,89.7,Expense,PKR,13,5,2015,No
+2015-05-13 08:32:03,Cash,Health,Health,N95 mask,862.5,Expense,PKR,13,5,2015,No
+2015-05-14 10:38:24,Saving Bank account 1,Other,,internet renewal (3 months pack),5002.5,Expense,PKR,14,5,2015,No
+2015-05-15 07:33:09,Saving Bank account 1,Food,Milk,milk half shakti,89.7,Expense,PKR,15,5,2015,No
+2015-05-16 11:24:15,Saving Bank account 1,Food,Milk,milk half shakti,89.7,Expense,PKR,16,5,2015,No
+2015-05-16 11:24:35,Cash,Food,fruits,bananas 1 kg,69.0,Expense,PKR,16,5,2015,No
+2015-05-16 14:52:42,Saving Bank account 1,Other,,splitwise settlement,2094.15,Expense,PKR,16,5,2015,No
+2015-05-17 17:57:12,Saving Bank account 1,Transportation,Taxi,BR to mumbai,20700.0,Expense,PKR,17,5,2015,No
+2015-05-31 12:02:40,Saving Bank account 1,Money transfer,,,34500.0,Expense,PKR,31,5,2015,Yes
+2015-05-31 12:02:40,Saving Bank account 1,Salary,,From workplace ,165113.55000000002,Income,PKR,31,5,2015,No
+2015-05-31 21:44:54,Saving Bank account 1,Household,Appliances,electricity bill,9214.95,Expense,PKR,31,5,2015,No
+2015-06-23 09:53:35,Saving Bank account 1,Other,,Amazon prime,3446.55,Expense,PKR,23,6,2015,No
+2015-06-29 09:53:35,Saving Bank account 1,Other,,Amazon prime,686.5500000000001,Expense,PKR,29,6,2015,No
+2015-06-30 09:53:35,Saving Bank account 1,Salary,,From workplace ,165113.55000000002,Income,PKR,30,6,2015,No
+2015-07-19 22:24:35,Saving Bank account 1,Other,,Mobile Service Provider recharge 365 days,8966.550000000001,Expense,PKR,19,7,2015,No
+2015-07-29 14:36:01,Saving Bank account 1,Other,,audible subscription,686.5500000000001,Expense,PKR,29,7,2015,No
+2015-07-31 14:38:08,Saving Bank account 1,Salary,,From workplace ,165113.55000000002,Income,PKR,31,7,2015,No
+2015-08-13 09:41:07,Saving Bank account 1,Other,,internet renewal (3 months pack),5002.5,Expense,PKR,13,8,2015,No
+2015-08-14 09:22:01,Saving Bank account 1,Household,Kitchen,mixer Philips 7756,12071.55,Expense,PKR,14,8,2015,No
+2015-08-28 09:38:54,Saving Bank account 1,Other,,audible subscription,686.5500000000001,Expense,PKR,28,8,2015,No
+2015-08-30 13:18:42,Saving Bank account 1,Other,,all out refill,248.4,Expense,PKR,30,8,2015,No
+2015-08-31 07:47:33,Saving Bank account 1,Other,,Screw driver kit,990.15,Expense,PKR,31,8,2015,No
+2015-08-31 11:48:23,Saving Bank account 1,Money transfer,,,34500.0,Expense,PKR,31,8,2015,Yes
+2015-08-31 13:33:18,Saving Bank account 1,Salary,,From workplace ,171830.7,Income,PKR,31,8,2015,No
+2015-09-21 08:10:16,Saving Bank account 1,Other,,Mobile Service Provider fi router,7241.55,Expense,PKR,21,9,2015,No
+2015-09-26 08:24:14,Cash,Other,,shoe polish,103.5,Expense,PKR,26,9,2015,No
+2015-09-27 10:54:06,Saving Bank account 1,Other,,audible subscription,686.5500000000001,Expense,PKR,27,9,2015,No
+2015-09-28 10:52:49,Cash,Health,Health,2 n95 masks,1035.0,Expense,PKR,28,9,2015,No
+2015-09-28 10:53:25,Cash,Health,Health,6 pairs of use and throw gloves,414.0,Expense,PKR,28,9,2015,No
+2015-09-28 10:54:06,Cash,Other,,Mobile Service Provider sim card,1207.5,Expense,PKR,28,9,2015,No
+2015-09-30 14:24:23,Cash,Other,,phone cover,345.0,Expense,PKR,30,9,2015,No
+2015-09-30 14:25:08,Saving Bank account 1,Salary,,From workplace ,171830.7,Income,PKR,30,9,2015,No
+2015-10-18 21:35:17,Saving Bank account 1,Transportation,Taxi,Ola - Place 1 to Place 5 to and fro,2770.3500000000004,Expense,PKR,18,10,2015,No
+2015-10-18 21:35:17,Saving Bank account 1,Apparel,Clothing,belt + socs,5102.55,Expense,PKR,18,10,2015,No
+2015-10-18 21:35:17,Cash,Money transfer,,,6900.0,Expense,PKR,18,10,2015,No
+2015-10-21 18:16:08,Cash,Other,,toll+petrol,1725.0,Expense,PKR,21,10,2015,No
+2015-10-22 13:10:06,Saving Bank account 1,Other,,Mobile Service Provider recharge wfh,865.95,Expense,PKR,22,10,2015,No
+2015-10-23 08:23:53,Cash,Other,,hanger clips,138.0,Expense,PKR,23,10,2015,No
+2015-10-23 14:30:42,Cash,Transportation,auto,mandir to hospital,69.0,Expense,PKR,23,10,2015,No
+2015-10-24 18:57:36,Cash,Household,Appliances,plumber,345.0,Expense,PKR,24,10,2015,No
+2015-10-25 17:55:32,Cash,Household,Kitchen,Sapat Parivar Tea half kg,828.0,Expense,PKR,25,10,2015,No
+2015-10-27 07:48:06,Saving Bank account 1,Other,,audible subscription,686.5500000000001,Expense,PKR,27,10,2015,No
+2015-10-28 21:28:33,Cash,Transportation,Bus,Place 2 to brc travels,2277.0,Expense,PKR,28,10,2015,No
+2015-10-28 21:38:44,Saving Bank account 1,Gift,,to Family,3450.0,Expense,PKR,28,10,2015,No
+2015-10-29 10:17:09,Saving Bank account 1,Transportation,Bus,redbus - brc to Place 2,2294.25,Expense,PKR,29,10,2015,No
+2015-10-30 06:35:12,Cash,Transportation,auto,Permanent Residence to kacheri,103.5,Expense,PKR,30,10,2015,No
+2015-10-30 14:13:06,Cash,Beauty,grooming,hair cut,172.5,Expense,PKR,30,10,2015,No
+2015-10-31 09:26:37,Cash,Transportation,auto,golden circle to b45,621.0,Expense,PKR,31,10,2015,No
+2015-10-31 09:27:05,Cash,Health,Health,face mask,517.5,Expense,PKR,31,10,2015,No
+2015-10-31 12:08:54,Cash,Food,snacks,sweats,862.5,Expense,PKR,31,10,2015,No
+2015-10-31 12:09:14,Saving Bank account 1,Salary,,From workplace ,171830.7,Income,PKR,31,10,2015,No
+2015-10-31 19:05:50,Cash,Food,Tea,,34.5,Expense,PKR,31,10,2015,No
+2015-10-31 19:06:06,Cash,Transportation,auto,b45 to Pandya bridge,244.95,Expense,PKR,31,10,2015,No
+2015-10-31 19:29:41,Cash,Food,snacks,water bottle + khari sing,241.5,Expense,PKR,31,10,2015,No
+2015-11-14 21:38:16,Cash,Other,,flowers (.5kg)+sweets (.25gm+10/-)+vegetables (1.5kg),1069.5,Expense,PKR,14,11,2015,No
+2015-11-15 19:52:41,Saving Bank account 1,Bonus,,Diwali gift,5175.0,Income,PKR,15,11,2015,No
+2015-11-21 21:39:44,Cash,Food,Eggs,1 dozen,289.8,Expense,PKR,21,11,2015,No
+2015-11-21 21:40:52,Saving Bank account 1,Other,,Mobile Service Provider recharge wfh,865.95,Expense,PKR,21,11,2015,No
+2015-11-26 06:51:26,Saving Bank account 1,Other,,audible subscription,686.5500000000001,Expense,PKR,26,11,2015,No
+2015-11-27 16:25:01,Cash,Food,snacks,egg roll,86.25,Expense,PKR,27,11,2015,No
+2015-11-29 09:27:52,Cash,Transportation,auto,,103.5,Expense,PKR,29,11,2015,No
+2015-11-29 09:27:52,Cash,Transportation,auto,,138.0,Expense,PKR,29,11,2015,No
+2015-11-29 09:27:52,Cash,Transportation,auto,,172.5,Expense,PKR,29,11,2015,No
+2015-11-30 11:30:45,Saving Bank account 1,Salary,,From workplace ,171830.7,Income,PKR,30,11,2015,No
+2015-12-19 14:20:11,Saving Bank account 1,Health,Medicine,eye drop maxmoist,810.75,Expense,PKR,19,12,2015,No
+2015-12-19 21:14:02,Saving Bank account 1,Health,Medicine,hand sanitizer,759.0,Expense,PKR,19,12,2015,No
+2015-12-19 22:28:38,Cash,Food,Eggs,,276.0,Expense,PKR,19,12,2015,No
+2015-12-20 09:08:55,Saving Bank account 1,Gift,,secret Santa - diary,1604.25,Expense,PKR,20,12,2015,No
+2015-12-21 23:18:19,Saving Bank account 1,Other,,kindle unlimited,583.0500000000001,Expense,PKR,21,12,2015,No
+2015-12-25 17:24:24,Cash,Household,Kitchen,dustbin bags,172.5,Expense,PKR,25,12,2015,No
+2015-12-25 17:24:50,Saving Bank account 1,Apparel,Footwear,sliper,931.5,Expense,PKR,25,12,2015,No
+2015-12-26 07:27:26,Saving Bank account 1,Other,,audible subscription,686.5500000000001,Expense,PKR,26,12,2015,No
+2015-12-26 23:53:57,Cash,Other,,flour mill,96.6,Expense,PKR,26,12,2015,No
+2015-12-30 17:30:28,Cash,Beauty,Makeup,hair cut+shaving+dye+facial,6900.0,Expense,PKR,30,12,2015,No
+2015-12-30 17:31:33,Cash,Food,,cake advance,345.0,Expense,PKR,30,12,2015,No
+2015-12-31 16:56:24,Saving Bank account 1,Salary,,From workplace ,266805.75,Income,PKR,31,12,2015,Yes
+2015-12-31 17:00:32,Cash,Food,,cake + balloon (150)+caps(50+40),1863.0,Expense,PKR,31,12,2015,No
+2016-01-13 12:06:57,Saving Bank account 1,Other,,wedding gift,155250.0,Income,PKR,13,1,2016,Yes
+2016-01-22 09:58:13,Saving Bank account 1,subscription,Kindle unlimited,kindle unlimited,583.0500000000001,Expense,PKR,22,1,2016,No
+2016-01-26 19:46:26,Saving Bank account 1,subscription,Audible,audible subscription,686.5500000000001,Expense,PKR,26,1,2016,No
+2016-01-31 11:17:24,Saving Bank account 1,Salary,,From workplace ,171830.7,Income,PKR,31,1,2016,No
+2016-01-31 11:19:58,Saving Bank account 1,Money transfer,,,34500.0,Expense,PKR,31,1,2016,Yes
+2016-02-13 11:14:46,Cash,Transportation,auto,within city,138.0,Expense,PKR,13,2,2016,No
+2016-02-13 11:14:46,Saving Bank account 1,Health,Health,hand gloves 4 pairs,276.0,Expense,PKR,13,2,2016,No
+2016-02-14 21:35:26,Cash,Food,Grocery,bread (10)+Cadbury(10)+ cheese + myvaneese+pav bhaji masala,569.25,Expense,PKR,14,2,2016,No
+2016-02-20 19:45:27,Cash,Food,Grocery,biscuits,293.25,Expense,PKR,20,2,2016,No
+2016-02-22 09:05:19,Saving Bank account 1,subscription,Kindle unlimited,kindle unlimited,583.0500000000001,Expense,PKR,22,2,2016,No
+2016-02-22 21:02:42,Cash,Food,snacks,5star (2)+munch(2),138.0,Expense,PKR,22,2,2016,No
+2016-02-24 06:35:18,Saving Bank account 1,subscription,Audible,audible subscription,686.5500000000001,Expense,PKR,24,2,2016,No
+2016-02-26 20:25:51,Saving Bank account 1,Salary,,From workplace ,171830.7,Income,PKR,26,2,2016,No
+2016-02-26 20:26:07,Saving Bank account 1,Money transfer,,,34500.0,Expense,PKR,26,2,2016,Yes
+2016-02-27 07:49:16,Saving Bank account 1,subscription,Mobile Service Provider,Mobile Service Provider recharge wfh,865.95,Expense,PKR,27,2,2016,No
+2016-02-27 07:49:16,Saving Bank account 1,Food,snacks, pedhe,172.5,Expense,PKR,27,2,2016,No
+2016-02-27 07:49:16,Cash,Other,,moscuito racket,862.5,Expense,PKR,27,2,2016,No
+2016-02-28 10:07:55,Cash,Other,,flour mill,37.95,Expense,PKR,28,2,2016,No
+2016-02-28 10:08:09,Saving Bank account 1,Food,snacks, pedhe,345.0,Expense,PKR,28,2,2016,No
+2016-02-28 10:08:09,Cash,Grooming,Saloon,hair cut,345.0,Expense,PKR,28,2,2016,No
+2016-02-28 19:38:39,Saving Bank account 1,Food,snacks,biscuits,241.5,Expense,PKR,28,2,2016,No
+2016-03-15 17:08:31,Saving Bank account 1,subscription,Mobile Service Provider,Mobile Service Provider recharge wfh,865.95,Expense,PKR,15,3,2016,No
+2016-03-16 12:44:04,Saving Bank account 1,Gift,,Ganesh murthi,276.0,Expense,PKR,16,3,2016,No
+2016-03-20 12:05:13,Cash,Other,,print out,17.25,Expense,PKR,20,3,2016,No
+2016-03-20 12:05:32,Cash,Food,Grocery,sambhar masala,120.75,Expense,PKR,20,3,2016,No
+2016-03-21 04:26:41,Saving Bank account 1,subscription,Mobile Service Provider,,865.95,Expense,PKR,21,3,2016,No
+2016-03-22 14:53:55,Saving Bank account 1,subscription,Kindle unlimited,kindle unlimited,583.0500000000001,Expense,PKR,22,3,2016,No
+2016-03-28 15:20:05,Saving Bank account 1,Other,,hit spray(99)+biscuits+mask,548.5500000000001,Expense,PKR,28,3,2016,No
+2016-03-29 05:35:43,Cash,Other,,owalni,345.0,Expense,PKR,29,3,2016,No
+2016-03-31 10:25:01,Saving Bank account 1,Salary,,From workplace ,244280.7,Income,PKR,31,3,2016,Yes
+2016-04-15 07:04:48,Saving Bank account 1,subscription,Mobile Service Provider,,865.95,Expense,PKR,15,4,2016,No
+2016-04-16 21:24:04,Cash,Household,Toiletries,sensodyne toothbrush,172.5,Expense,PKR,16,4,2016,No
+2016-04-20 10:27:48,Saving Bank account 1,subscription,Mobile Service Provider,,865.95,Expense,PKR,20,4,2016,No
+2016-04-24 22:10:32,Saving Bank account 1,subscription,Kindle unlimited,kindle unlimited,583.0500000000001,Expense,PKR,24,4,2016,No
+2016-04-26 08:30:54,Saving Bank account 1,Food,Grocery,dettol handwash + khari + toast + goodday,893.5500000000001,Expense,PKR,26,4,2016,No
+2016-04-28 22:24:09,Saving Bank account 1,subscription,Hotstar,subscription,1031.55,Expense,PKR,28,4,2016,No
+2016-04-30 21:58:43,Saving Bank account 1,Salary,,From workplace ,177890.45249999998,Income,PKR,30,4,2016,No
+2016-05-16 20:48:29,Saving Bank account 1,subscription,Mobile Service Provider,,865.95,Expense,PKR,16,5,2016,No
+2016-05-17 12:34:38,Cash,Other,,Aadhar mobile number and email id updated,345.0,Expense,PKR,17,5,2016,No
+2016-05-17 21:59:19,Saving Bank account 1,Investment,LIC,Life Insurance,38936.7,Expense,PKR,17,5,2016,Yes
+2016-05-19 09:21:46,Saving Bank account 1,Food,Grocery,agarbatti + icecream pack,621.0,Expense,PKR,19,5,2016,No
+2016-05-22 11:13:40,Cash,Transportation,auto,Permanent Residence to nearby hospital,138.0,Expense,PKR,22,5,2016,No
+2016-05-22 11:13:40,Saving Bank account 1,Grooming,Saloon,hair cut+shaving,414.0,Expense,PKR,22,5,2016,No
+2016-05-29 19:16:49,Saving Bank account 1,Food,Grocery,sanitary napkins+chocolates+Maggie+khajoor,1738.8000000000002,Expense,PKR,29,5,2016,No
+2016-05-30 12:46:40,Saving Bank account 1,subscription,Mobile Service Provider,,865.95,Expense,PKR,30,5,2016,No
+2016-05-31 09:51:36,Saving Bank account 1,Transportation,auto,Permanent Residence to LB road,172.5,Expense,PKR,31,5,2016,No
+2016-05-31 09:55:09,Saving Bank account 1,Salary,,From workplace ,177868.2,Income,PKR,31,5,2016,No
+2016-06-18 19:45:05,Cash,Other,,flour mill,131.1,Expense,PKR,18,6,2016,No
+2016-06-19 17:10:49,Saving Bank account 1,Family,exam fee,Family exam form,3122.25,Expense,PKR,19,6,2016,No
+2016-06-19 18:49:52,Saving Bank account 1,Food,Grocery,grocery,2070.0,Expense,PKR,19,6,2016,No
+2016-06-20 22:19:27,Saving Bank account 1,Food,snacks,icecream,483.0,Expense,PKR,20,6,2016,No
+2016-06-22 11:20:48,Saving Bank account 1,subscription,Mobile Service Provider,Mobile Service Provider sim card porting,1207.5,Expense,PKR,22,6,2016,No
+2016-06-23 12:02:39,Saving Bank account 1,subscription,Amazon Prime,Amazon prime subscription,3432.75,Expense,PKR,23,6,2016,No
+2016-06-27 10:10:57,Saving Bank account 1,subscription,Mobile Service Provider,,865.95,Expense,PKR,27,6,2016,No
+2016-06-27 17:09:47,Saving Bank account 1,Transportation,Travels,Chalisgaon to Baroda return,11040.0,Expense,PKR,27,6,2016,No
+2016-06-30 08:20:12,Saving Bank account 1,Salary,,From workplace ,177826.80000000002,Income,PKR,30,6,2016,No
+2016-06-30 11:40:50,Saving Bank account 1,Other,,pan card application,368.80500000000006,Expense,PKR,30,6,2016,No
+2016-06-30 11:40:50,Saving Bank account 1,Interest,,interest paid,2553.0,Income,PKR,30,6,2016,No
+2016-07-13 10:21:25,Cash,Health,Medicine,citrizen + crocine,34.5,Expense,PKR,13,7,2016,No
+2016-07-20 07:03:14,Saving Bank account 1,subscription,Mobile Service Provider,Mobile Service Provider recharge 365 days,8966.550000000001,Expense,PKR,20,7,2016,No
+2016-07-21 16:33:04,Saving Bank account 1,subscription,Mobile Service Provider,,865.95,Expense,PKR,21,7,2016,No
+2016-07-25 10:48:49,Saving Bank account 1,subscription,Mobile Service Provider,,865.95,Expense,PKR,25,7,2016,No
+2016-07-31 18:50:51,Cash,Other,,frame for specs,862.5,Expense,PKR,31,7,2016,No
+2016-07-31 18:51:58,Saving Bank account 1,Salary,,From workplace ,177868.2,Income,PKR,31,7,2016,No
+2016-08-14 16:12:49,Cash,Grooming,Saloon,hair cut,345.0,Expense,PKR,14,8,2016,No
+2016-08-14 16:13:29,Cash,Other,,pens,17.25,Expense,PKR,14,8,2016,No
+2016-08-18 14:19:25,Saving Bank account 1,subscription,Mobile Service Provider,,865.95,Expense,PKR,18,8,2016,No
+2016-08-21 08:54:35,Cash,Other,,earphones,345.0,Expense,PKR,21,8,2016,No
+2016-08-22 13:22:05,Saving Bank account 1,Festivals,Rakshabandhan,rakshabandhan ovalni ,1725.0,Expense,PKR,22,8,2016,No
+2016-08-23 17:25:23,Saving Bank account 1,Family,Pocket money,,6900.0,Expense,PKR,23,8,2016,No
+2016-08-24 07:38:04,Saving Bank account 1,Festivals,Rakshabandhan,rakshabandhan ovalni ,1725.0,Expense,PKR,24,8,2016,No
+2016-08-29 10:48:20,Saving Bank account 1,Household,Toiletries,lizol,338.1,Expense,PKR,29,8,2016,No
+2016-08-29 10:48:48,Cash,Household,Kitchen,boric powder,138.0,Expense,PKR,29,8,2016,No
+2016-08-29 11:41:25,Cash,Festivals,Ganesh Pujan,Ganesh idol,1245.45,Expense,PKR,29,8,2016,No
+2016-08-31 15:47:44,Saving Bank account 1,Salary,,From workplace ,220434.3,Income,PKR,31,8,2016,Yes
+2016-09-13 09:48:13,Saving Bank account 1,Food,Eating out,riverdine date,2915.25,Expense,PKR,13,9,2016,No
+2016-09-13 09:48:13,Cash,Food,snacks,brownie,241.5,Expense,PKR,13,9,2016,No
+2016-09-14 10:13:24,Saving Bank account 1,Family,gift,baggit purse,1507.65,Expense,PKR,14,9,2016,No
+2016-09-14 13:24:08,Saving Bank account 1,subscription,Mobile Service Provider,,865.95,Expense,PKR,14,9,2016,No
+2016-09-15 06:52:09,Cash,Food,Grocery,chocobar+milk+chips,327.75,Expense,PKR,15,9,2016,No
+2016-09-19 15:35:24,Cash,Food,Milk,,113.85,Expense,PKR,19,9,2016,No
+2016-09-28 07:32:36,Cash,Other,,flour mill,110.4,Expense,PKR,28,9,2016,No
+2016-09-30 06:28:02,Saving Bank account 1,Salary,,From workplace ,200300.1,Income,PKR,30,9,2016,No
+2016-09-30 06:28:02,Saving Bank account 1,Interest,,interest paid,2880.75,Income,PKR,30,9,2016,No
+2016-10-13 14:23:49,Saving Bank account 1,Family,misc,scratch guard ipad,859.0500000000001,Expense,PKR,13,10,2016,No
+2016-10-14 11:58:20,Saving Bank account 1,Food,Grocery,sugar + biscuits,414.0,Expense,PKR,14,10,2016,No
+2016-10-15 10:31:22,Saving Bank account 1,Food,Grocery,,1483.5,Expense,PKR,15,10,2016,No
+2016-10-17 17:30:26,Cash,Food,Grocery,butter + paneer + pav+batate+tamate,741.75,Expense,PKR,17,10,2016,No
+2016-10-22 20:23:46,Cash,Food,Eating out,pav vada,69.0,Expense,PKR,22,10,2016,No
+2016-10-22 20:24:10,Cash,Food,Grocery,Khari,120.75,Expense,PKR,22,10,2016,No
+2016-10-24 08:17:38,Cash,Food,Grocery,popcorn+mehndi+mosambi+orange+all out refill,1104.0,Expense,PKR,24,10,2016,No
+2016-10-25 18:55:33,Cash,Food,snacks,egg roll,86.25,Expense,PKR,25,10,2016,No
+2016-10-26 13:58:49,Saving Bank account 1,Health,Medicine,,2128.65,Expense,PKR,26,10,2016,No
+2016-10-27 10:40:00,Cash,Food,fruits,apple + mosambi 1kg each,586.5,Expense,PKR,27,10,2016,No
+2016-10-27 13:57:56,Cash,Food,Grocery,mehndi,86.25,Expense,PKR,27,10,2016,No
+2016-10-27 13:57:56,Saving Bank account 1,Family,gift,Undated Planner - June shop,3861.24,Expense,PKR,27,10,2016,No
+2016-10-27 13:57:56,Saving Bank account 1,subscription,Mobile Service Provider,,865.95,Expense,PKR,27,10,2016,No
+2016-10-28 07:19:00,Cash,Transportation,auto,Permanent Residence to pathology,138.0,Expense,PKR,28,10,2016,No
+2016-10-28 07:19:00,Saving Bank account 1,Health,Medicine,syrup+tablet+ mortein refill,762.45,Expense,PKR,28,10,2016,No
+2016-10-30 15:03:18,Saving Bank account 1,Salary,,From workplace ,195432.15,Income,PKR,30,10,2016,No
+2016-10-31 07:36:35,Saving Bank account 1,Festivals,Diwali,Mi band 5 ( Bhaiduj gift),6896.55,Expense,PKR,31,10,2016,No
+2016-11-14 20:02:26,Saving Bank account 1,Transportation,Travels,Kabra Travels - Place 2 to BRC (2 Adults),16083.9,Expense,PKR,14,11,2016,No
+2016-11-14 20:03:10,Saving Bank account 1,Transportation,Travels,Veer Travels - BRC to Place 2 ( 2 Adults),6210.0,Expense,PKR,14,11,2016,No
+2016-11-15 20:22:40,Cash,Food,fruits,apple + mosambi 1kg each,621.0,Expense,PKR,15,11,2016,No
+2016-11-15 20:23:12,Cash,Other,,flowers,34.5,Expense,PKR,15,11,2016,No
+2016-11-15 20:23:29,Cash,Food,Grocery,lemons,69.0,Expense,PKR,15,11,2016,No
+2016-11-17 20:17:21,Cash,Food,snacks,single pav vada,34.5,Expense,PKR,17,11,2016,No
+2016-11-19 11:58:28,Cash,Transportation,Taxi,share jeep - Place T top to base (50/person),345.0,Expense,PKR,19,11,2016,No
+2016-11-19 11:58:28,Cash,Food,beverage,lemon juice ( 20/person),138.0,Expense,PKR,19,11,2016,No
+2016-11-19 11:58:28,Cash,Other,,"Puja saman (150 for 5 Nariyal, 400 for 1kg sweets and 190 for rest)",2553.0,Expense,PKR,19,11,2016,No
+2016-11-19 11:58:28,Cash,Transportation,auto,within city,276.0,Expense,PKR,19,11,2016,No
+2016-11-19 11:58:28,Cash,Transportation,Taxi,share jeep - Place T base to top (50/person),345.0,Expense,PKR,19,11,2016,No
+2016-11-19 11:58:28,Cash,Transportation,auto,share auto - Place H to Place T base (20/person),138.0,Expense,PKR,19,11,2016,No
+2016-11-19 11:58:28,Cash,Transportation,Bus,bus - brc to Place H ( 27/person),186.3,Expense,PKR,19,11,2016,No
+2016-11-19 11:58:28,Cash,Transportation,ropeway,ropeway Place T to and fro (169/person),1166.1,Expense,PKR,19,11,2016,No
+2016-11-19 12:12:00,Cash,Transportation,Bus,Place T to brc,324.3,Expense,PKR,19,11,2016,No
+2016-11-19 12:12:00,Cash,Transportation,auto,ola auto - BRC ,138.0,Expense,PKR,19,11,2016,No
+2016-11-19 12:12:00,Cash,Other,,Sayaji baug express (50/adult),345.0,Expense,PKR,19,11,2016,No
+2016-11-19 12:12:00,Cash,Food,Water,two water bottles,138.0,Expense,PKR,19,11,2016,No
+2016-11-19 12:12:00,Cash,Transportation,auto,within city,172.5,Expense,PKR,19,11,2016,No
+2016-11-19 12:12:00,Saving Bank account 1,Food,Eating out,"3 parathe , 1 Hara bhara kabab, 1 rabdi malai, 1 masala papad, 1 pepsi",3750.15,Expense,PKR,19,11,2016,No
+2016-11-19 12:12:00,Cash,Food,chocolate,poppins,6.9,Expense,PKR,19,11,2016,No
+2016-11-20 11:58:05,Cash,Transportation,auto,Locality V to Permanent Residence,172.5,Expense,PKR,20,11,2016,No
+2016-11-21 09:41:12,Cash,Transportation,auto,within city,172.5,Expense,PKR,21,11,2016,No
+2016-11-21 09:41:12,Cash,Transportation,auto,within city,241.5,Expense,PKR,21,11,2016,No
+2016-11-21 09:41:12,Cash,Health,Medicine,strepsils,51.75,Expense,PKR,21,11,2016,No
+2016-11-25 09:27:45,Saving Bank account 1,subscription,Mobile Service Provider,Mobile Service Provider recharge wfh,865.95,Expense,PKR,25,11,2016,No
+2016-11-25 09:28:23,Saving Bank account 1,Bonus,,reward Gpay,17.25,Income,PKR,25,11,2016,No
+2016-11-28 06:17:10,Cash,Food,Ice cream,mava 1 large,69.0,Expense,PKR,28,11,2016,No
+2016-11-28 18:03:47,Cash,Other,,flour mill,27.6,Expense,PKR,28,11,2016,No
+2016-11-28 18:04:08,Saving Bank account 1,Household,Appliances,Metz 32 inch TV,70725.0,Expense,PKR,28,11,2016,Yes
+2016-11-29 21:44:34,Cash,Family,misc,Himalaya shampoo,207.0,Expense,PKR,29,11,2016,No
+2016-11-30 06:53:26,Saving Bank account 1,subscription,Mobile Service Provider,mobile recharge sim 2,338.1,Expense,PKR,30,11,2016,No
+2016-11-30 11:32:14,Saving Bank account 1,subscription,Mobile Service Provider,Mobile Service Provider recharge wfh,865.95,Expense,PKR,30,11,2016,No
+2016-11-30 11:33:19,Saving Bank account 1,Bonus,,reward Gpay,17.25,Income,PKR,30,11,2016,No
+2016-11-30 13:56:42,Saving Bank account 1,Salary,,From workplace ,195221.7,Income,PKR,30,11,2016,No
+2016-11-30 20:00:34,Saving Bank account 1,Family,clothes,leggings,1725.0,Expense,PKR,30,11,2016,No
+2016-12-13 18:20:35,Saving Bank account 1,Gift,,farewell contribution,1207.5,Expense,PKR,13,12,2016,No
+2016-12-13 21:42:22,Cash,Household,Toiletries,oralB toothbrush with cap,86.25,Expense,PKR,13,12,2016,No
+2016-12-13 21:43:57,Cash,Other,,kalnirnay calender,120.75,Expense,PKR,13,12,2016,No
+2016-12-14 21:43:10,Cash,Food,vegetables,,690.0,Expense,PKR,14,12,2016,No
+2016-12-17 13:42:21,Saving Bank account 1,subscription,Mobile Service Provider,Mobile Service Provider recharge wfh,1038.45,Expense,PKR,17,12,2016,No
+2016-12-17 13:42:36,Saving Bank account 1,Bonus,,reward Gpay,37.95,Income,PKR,17,12,2016,No
+2016-12-18 20:18:37,Saving Bank account 1,Family,Pocket money,,6900.0,Expense,PKR,18,12,2016,No
+2016-12-18 20:18:54,Saving Bank account 1,Bonus,,reward Gpay,17.25,Income,PKR,18,12,2016,No
+2016-12-19 17:07:37,Cash,Food,fruits,1 kg mosambi 1 kg apple,586.5,Expense,PKR,19,12,2016,No
+2016-12-19 17:08:11,Cash,Food,snacks,chips 1 Kurkure (19) 1 lays (10),100.05,Expense,PKR,19,12,2016,No
+2016-12-19 18:28:42,Saving Bank account 1,Household,Toiletries,sensitive toothbrush,169.05,Expense,PKR,19,12,2016,No
+2016-12-19 18:29:12,Cash,Food,snacks,2 dabeli,103.5,Expense,PKR,19,12,2016,No
+2016-12-21 19:58:12,Saving Bank account 1,Transportation,Travels,Place 2 to Place 1 - Novelty tour and travels,6555.0,Expense,PKR,21,12,2016,No
+2016-12-21 19:59:20,Saving Bank account 1,Transportation,train,LTT to Place 2 cancellation,868.71,Expense,PKR,21,12,2016,No
+2016-12-21 21:57:01,Saving Bank account 1,Family,clothes,sweater,6465.3,Expense,PKR,21,12,2016,No
+2016-12-22 10:39:06,Saving Bank account 1,Transportation,train,Place 5 to Place 1 sevagram,40.71000000000001,Expense,PKR,22,12,2016,No
+2016-12-22 11:15:36,Saving Bank account 1,Gift,,farewell contribution,983.25,Expense,PKR,22,12,2016,No
+2016-12-25 14:10:11,Saving Bank account 1,subscription,Mobile Service Provider,Mobile Service Provider recharge wfh,1038.45,Expense,PKR,25,12,2016,No
+2016-12-28 18:40:50,Saving Bank account 1,Other,,specs,6141.0,Expense,PKR,28,12,2016,No
+2016-12-28 18:41:14,Cash,Food,Grocery,Monaco biscuits,34.5,Expense,PKR,28,12,2016,No
+2016-12-29 07:40:31,Saving Bank account 1,Gift,,Nokia 215 mobile for Aai,11022.75,Expense,PKR,29,12,2016,No
+2016-12-29 07:56:02,Saving Bank account 1,Transportation,train,LTT to Place 2 (Patna Exp) cancellation,1390.35,Expense,PKR,29,12,2016,No
+2016-12-29 09:00:28,Saving Bank account 1,subscription,Tata Sky,,738.3000000000001,Expense,PKR,29,12,2016,No
+2016-12-29 18:06:14,Cash,Food,flour mill,1 sher bajri 1 kg dadar 1 kg makka,48.3,Expense,PKR,29,12,2016,No
+2016-12-29 19:16:32,Cash,Food,snacks,2 chips packets,34.5,Expense,PKR,29,12,2016,No
+2016-12-29 19:17:33,Cash,Other,,xerox,86.25,Expense,PKR,29,12,2016,No
+2016-12-30 21:30:17,Cash,Transportation,auto,Permanent Residence to bus stand,345.0,Expense,PKR,30,12,2016,No
+2016-12-31 09:09:24,Saving Bank account 1,Food,Grocery,edible oil,552.0,Expense,PKR,31,12,2016,No
+2016-12-31 13:47:26,Cash,subscription,Edtech Course,EMI 1,9715.2,Expense,PKR,31,12,2016,No
+2016-12-31 13:48:53,Saving Bank account 1,Salary,,From workplace ,195180.3,Income,PKR,31,12,2016,No
+2016-12-31 15:39:35,Saving Bank account 1,Food,Lunch,veg fried rice,586.5,Expense,PKR,31,12,2016,No
+2016-12-31 15:40:02,Saving Bank account 1,Health,Medicine,strepsils 1 strip,82.80000000000001,Expense,PKR,31,12,2016,No
+2016-12-31 17:39:16,Saving Bank account 1,Gift,,Birthday gift,3781.2,Expense,PKR,31,12,2016,No
+2016-12-31 19:34:55,Cash,Food,snacks,1 Panipuri,86.25,Expense,PKR,31,12,2016,No
+2016-12-31 20:11:24,Saving Bank account 1,Food,Grocery,milk + butter + biscuits/toast,265.65000000000003,Expense,PKR,31,12,2016,No
+2016-12-31 20:11:24,Saving Bank account 1,Food,Dinner,1 chicken shawarma + 1 chicken lollipop - 1 veg cheese burger,1293.75,Expense,PKR,31,12,2016,No
+2017-01-15 08:25:53,Cash,Food,Grocery,chole + shev,483.0,Expense,PKR,15,1,2017,No
+2017-01-15 08:25:53,Cash,Food,Grocery,fruits and vegetables + kirana,1863.0,Expense,PKR,15,1,2017,No
+2017-01-16 08:25:05,Saving Bank account 1,Other,,adhar pvc card order,172.5,Expense,PKR,16,1,2017,No
+2017-01-16 11:01:54,Saving Bank account 1,Household,Furniture,chair pair,8280.0,Expense,PKR,16,1,2017,No
+2017-01-16 16:02:53,Cash,Transportation,auto,GHroad to Permanent Residence,138.0,Expense,PKR,16,1,2017,No
+2017-01-19 00:12:27,Saving Bank account 1,Family,medicine,syrup,500.25,Expense,PKR,19,1,2017,No
+2017-01-19 00:13:03,Cash,Food,snacks,2 Bombay vada pav,69.0,Expense,PKR,19,1,2017,No
+2017-01-20 19:23:37,Saving Bank account 1,subscription,Mobile Service Provider,Mobile Service Provider recharge wfh,1038.45,Expense,PKR,20,1,2017,No
+2017-01-21 19:23:37,Saving Bank account 1,subscription,Mobile Service Provider,Mobile Service Provider recharge,514.0500000000001,Expense,PKR,21,1,2017,No
+2017-01-22 19:20:19,Cash,Food,Grocery,,1414.5,Expense,PKR,22,1,2017,No
+2017-01-22 19:20:35,Saving Bank account 1,Family,Pocket money,,6900.0,Expense,PKR,22,1,2017,No
+2017-01-23 11:27:32,Saving Bank account 1,Gift,,Birthday gift,2239.05,Expense,PKR,23,1,2017,No
+2017-01-23 19:16:16,Saving Bank account 1,subscription,Tata Sky,,624.45,Expense,PKR,23,1,2017,No
+2017-01-29 19:22:36,Cash,Transportation,auto,within city,103.5,Expense,PKR,29,1,2017,No
+2017-01-29 19:23:08,Cash,Transportation,Bus,2 tickets Place 2 to N,1759.5,Expense,PKR,29,1,2017,No
+2017-01-29 19:23:34,Cash,Transportation,auto,within city,103.5,Expense,PKR,29,1,2017,No
+2017-01-29 19:24:30,Cash,Food,Milk,half liter buffalo,120.75,Expense,PKR,29,1,2017,No
+2017-01-29 19:24:54,Saving Bank account 1,Food,breakfast,brown bread,120.75,Expense,PKR,29,1,2017,No
+2017-01-29 19:26:04,Cash,Food,snacks,2 Shegaon kachori (nasik),103.5,Expense,PKR,29,1,2017,No
+2017-01-29 20:19:46,Cash,Food,snacks,cheese chilli toast sandwich 1,207.0,Expense,PKR,29,1,2017,No
+2017-01-29 20:20:15,Cash,Food,Dinner,3 parathe ( 80 mix veg + 70 methi + 100 paneer aloo),862.5,Expense,PKR,29,1,2017,No
+2017-01-30 07:24:02,Saving Bank account 1,Food,Milk,half liter buffalo,120.75,Expense,PKR,30,1,2017,No
+2017-01-30 07:24:02,Cash,Food,snacks,single pav vada,51.75,Expense,PKR,30,1,2017,No
+2017-01-31 09:22:32,Saving Bank account 1,Food,Milk,half liter buffalo,120.75,Expense,PKR,31,1,2017,No
+2017-01-31 09:22:32,Saving Bank account 1,Salary,,From workplace ,217698.45,Income,PKR,31,1,2017,Yes
+2017-02-13 17:20:15,Saving Bank account 1,subscription,Mobile Service Provider,Mobile Service Provider recharge wfh,1038.45,Expense,PKR,13,2,2017,No
+2017-02-16 17:32:36,Saving Bank account 1,Gift,,farewell contribution,1380.0,Expense,PKR,16,2,2017,No
+2017-02-18 11:12:58,Saving Bank account 1,subscription,Mobile Service Provider,Mobile Service Provider recharge wfh,1038.45,Expense,PKR,18,2,2017,No
+2017-02-18 13:19:49,Cash,Family,Pocket money,,1725.0,Expense,PKR,18,2,2017,No
+2017-02-19 08:04:37,Saving Bank account 1,Apparel,Clothing,undergarments pair of Jockey,1718.1,Expense,PKR,19,2,2017,No
+2017-02-19 08:04:37,Cash,Education,Stationary,laminated colour print out,86.25,Expense,PKR,19,2,2017,No
+2017-02-19 08:04:37,Cash,Food,beverage,sugarcane juice 2,103.5,Expense,PKR,19,2,2017,No
+2017-02-19 08:04:37,Cash,Money transfer,,To Family,79.35000000000001,Expense,PKR,19,2,2017,No
+2017-02-21 22:00:35,Cash,Food,snacks,pav vada,34.5,Expense,PKR,21,2,2017,No
+2017-02-22 21:59:31,Saving Bank account 1,Transportation,Taxi,Place 2 to Place 1,18975.0,Expense,PKR,22,2,2017,No
+2017-02-22 22:00:06,Cash,Education,Stationary,stamp pad,103.5,Expense,PKR,22,2,2017,No
+2017-02-23 02:14:24,Cash,Food,Ice cream,2 vanilla + 2 butterscotch,276.0,Expense,PKR,23,2,2017,No
+2017-02-24 13:09:50,Cash,Food,Tea,3 tea yevle amrutullya,103.5,Expense,PKR,24,2,2017,No
+2017-02-24 13:09:50,Cash,Food,Lunch,At restaurant,345.0,Expense,PKR,24,2,2017,No
+2017-02-24 13:09:50,Cash,Food,Grocery,milk 1 lit + butter milk,258.75,Expense,PKR,24,2,2017,No
+2017-02-25 13:21:15,Saving Bank account 1,Food,Lunch,veg triple Schwan fried rice,852.1500000000001,Expense,PKR,25,2,2017,No
+2017-02-25 20:29:44,Saving Bank account 1,subscription,Tata Sky,,345.0,Expense,PKR,25,2,2017,No
+2017-02-25 20:39:26,Saving Bank account 1,Food,Dinner,veg paneer tikka 4 roti,1097.1,Expense,PKR,25,2,2017,No
+2017-02-25 20:40:36,Cash,Household,Kitchen,hp cylinder,3174.0,Expense,PKR,25,2,2017,No
+2017-02-25 20:41:26,Cash,Household,Appliances,tube and inverter fitting,5520.0,Expense,PKR,25,2,2017,No
+2017-02-25 20:41:26,Saving Bank account 1,Household,Appliances,exide inverter battery 150amp,29325.0,Expense,PKR,25,2,2017,Yes
+2017-02-26 00:00:25,Saving Bank account 1,Food,snacks,2 Jumbo king burger,200.1,Expense,PKR,26,2,2017,No
+2017-02-26 00:01:25,Cash,Household,Kitchen,dustbin + basin sink cover,1242.0,Expense,PKR,26,2,2017,No
+2017-02-26 10:54:45,Saving Bank account 1,Household,Kirana,,2918.7000000000003,Expense,PKR,26,2,2017,No
+2017-02-26 23:59:09,Cash,Transportation,auto,Current Residence to Place 0,103.5,Expense,PKR,26,2,2017,No
+2017-02-26 23:59:58,Cash,Transportation,Train,Place 0 to WS returns,69.0,Expense,PKR,26,2,2017,No
+2017-02-27 09:17:17,Saving Bank account 1,Food,Milk,milk 1lit  + amul butter milk,262.2,Expense,PKR,27,2,2017,No
+2017-02-27 09:18:03,Cash,Household,Appliances,3 Wall clock cell,189.75,Expense,PKR,27,2,2017,No
+2017-02-27 18:31:38,Saving Bank account 1,Food,Lunch,6 chapati(8 rs) + half rice,303.6,Expense,PKR,27,2,2017,No
+2017-02-27 18:42:27,Cash,Transportation,Train,2 TB return,138.0,Expense,PKR,27,2,2017,No
+2017-02-27 18:42:27,Cash,Transportation,auto,Place 0 to Current Residence,103.5,Expense,PKR,27,2,2017,No
+2017-02-27 18:42:27,Cash,Transportation,auto,Current Residence to Place 0,103.5,Expense,PKR,27,2,2017,No
+2017-02-28 12:32:35,Cash,Transportation,auto,Current Residence to Place 0,103.5,Expense,PKR,28,2,2017,No
+2017-02-28 12:32:35,Cash,Transportation,auto,Santacruz to Kalina University,196.65,Expense,PKR,28,2,2017,No
+2017-02-28 12:32:35,Cash,Transportation,Train,2 Santacruz return,276.0,Expense,PKR,28,2,2017,No
+2017-02-28 22:01:48,Cash,Transportation,auto,share auto - mumbai University Kalina to Santacruz station,138.0,Expense,PKR,28,2,2017,No
+2017-02-28 22:06:58,Cash,Food,breakfast,sugarcane juice 2,103.5,Expense,PKR,28,2,2017,No
+2017-02-28 22:07:25,Cash,Transportation,Train,2 Santacruz to churchgate,69.0,Expense,PKR,28,2,2017,No
+2017-02-28 22:08:33,Saving Bank account 1,Food,Dinner,At restaurant,8352.45,Expense,PKR,28,2,2017,No
+2017-02-28 22:09:03,Cash,Other,,fine,1380.0,Expense,PKR,28,2,2017,No
+2017-02-28 22:09:27,Cash,Food,Tea,,34.5,Expense,PKR,28,2,2017,No
+2017-02-28 22:09:39,Cash,Transportation,Bus,BEST 138 - Marine drive to Place 3m,41.400000000000006,Expense,PKR,28,2,2017,No
+2017-02-28 22:11:09,Cash,Transportation,Train,2 Place 3m to vadala rd,34.5,Expense,PKR,28,2,2017,No
+2017-02-28 22:13:04,Cash,Transportation,auto,Place 0 to Current Residence,103.5,Expense,PKR,28,2,2017,No
+2017-02-28 22:13:41,Cash,Food,Grocery,sabudana + rajgira ladu,293.25,Expense,PKR,28,2,2017,No
+2017-02-28 22:13:41,Saving Bank account 1,Salary,,From workplace ,193272.45,Income,PKR,28,2,2017,No
+2017-02-28 22:13:41,Cash,Transportation,Taxi,within city,138.0,Expense,PKR,28,2,2017,No
+2017-03-13 14:08:00,Cash,Household,Hardware,ceiling fans repair,5520.0,Expense,PKR,13,3,2017,No
+2017-03-13 21:30:25,Cash,Beauty,grooming,hair cut,345.0,Expense,PKR,13,3,2017,No
+2017-03-13 21:46:14,Cash,Household,Hardware,Wall hanging clipboard,1380.0,Expense,PKR,13,3,2017,No
+2017-03-13 21:47:02,Cash,Food,Grocery,,345.0,Expense,PKR,13,3,2017,No
+2017-03-14 20:20:07,Cash,Household,Hardware,2 bath stool,1035.0,Expense,PKR,14,3,2017,No
+2017-03-15 06:17:32,Cash,Food,Ice cream,2 softy,138.0,Expense,PKR,15,3,2017,No
+2017-03-15 06:17:55,Cash,Household,Kitchen,drainage powder,172.5,Expense,PKR,15,3,2017,No
+2017-03-15 06:17:55,Cash,Household,Kirana,2 toast+ 2 parle g + Marie gold,382.9500000000001,Expense,PKR,15,3,2017,No
+2017-03-16 20:39:13,Saving Bank account 1,subscription,Wifi Internet Service,6 months ( 30mb UL plan + 1 month free),9729.0,Expense,PKR,16,3,2017,No
+2017-03-16 20:40:52,Cash,Other,,scrap,241.5,Income,PKR,16,3,2017,No
+2017-03-18 09:41:44,Cash,Food,fruits,Grapes + apple + guava,1069.5,Expense,PKR,18,3,2017,No
+2017-03-18 09:41:44,Saving Bank account 1,Food,Grocery,,552.0,Expense,PKR,18,3,2017,No
+2017-03-18 09:41:44,Cash,Food,snacks,2 samosa (32) + 25 Pani Puri,196.65,Expense,PKR,18,3,2017,No
+2017-03-19 13:28:22,Saving Bank account 1,subscription,Mobile Service Provider,Mobile Service Provider freedom pack,1021.2,Expense,PKR,19,3,2017,No
+2017-03-20 11:45:21,Saving Bank account 1,Household,Appliances,2 Spike guard,1552.5,Expense,PKR,20,3,2017,No
+2017-03-22 06:57:25,Saving Bank account 1,Transportation,Travels,Place 6 to Place 2,2070.0,Expense,PKR,22,3,2017,No
+2017-03-22 23:10:50,Cash,Transportation,auto,2 Current Residence to Place 0,103.5,Expense,PKR,22,3,2017,No
+2017-03-22 23:10:50,Cash,Transportation,Train,2 Place 0 to WS returns,69.0,Expense,PKR,22,3,2017,No
+2017-03-22 23:11:47,Cash,Transportation,Bus,2 Place 6 to Place 7,62.1,Expense,PKR,22,3,2017,No
+2017-03-22 23:11:47,Cash,Transportation,auto,within city,113.85,Expense,PKR,22,3,2017,No
+2017-03-22 23:14:21,Cash,Household,Furniture,Mattress advance,1725.0,Expense,PKR,22,3,2017,No
+2017-03-22 23:16:53,Cash,Transportation,auto,,172.5,Expense,PKR,22,3,2017,No
+2017-03-22 23:18:47,Cash,Transportation,auto,2 Place 0 to Current Residence,69.0,Expense,PKR,22,3,2017,No
+2017-03-23 13:49:11,Saving Bank account 1,Other,,Fifa 21 pc,5171.55,Expense,PKR,23,3,2017,No
+2017-03-23 22:03:29,Saving Bank account 1,Food,beverage,3 sugarcane juice,207.0,Expense,PKR,23,3,2017,No
+2017-03-23 22:04:15,Saving Bank account 1,Family,Pocket money,,10350.0,Expense,PKR,23,3,2017,No
+2017-03-25 09:14:09,Cash,Food,Milk,milk 1 lit,207.0,Expense,PKR,25,3,2017,No
+2017-03-25 13:41:02,Cash,Health,Hospital,Doctor Fees,517.5,Expense,PKR,25,3,2017,No
+2017-03-25 14:49:45,Saving Bank account 1,Transportation,Travels,Place 2 to Place 1,3105.0,Expense,PKR,25,3,2017,No
+2017-03-25 14:50:06,Saving Bank account 1,Health,Medicine,Jel,379.5,Expense,PKR,25,3,2017,No
+2017-03-25 14:50:06,Saving Bank account 1,Health,Medicine,Tablet,100.05,Expense,PKR,25,3,2017,No
+2017-03-25 14:50:06,Saving Bank account 1,Gpay Reward,,reward Gpay,20.700000000000003,Income,PKR,25,3,2017,No
+2017-03-25 14:50:06,Cash,Food,Grocery,Dahi 2 packets,69.0,Expense,PKR,25,3,2017,No
+2017-03-26 13:43:07,Saving Bank account 1,Food,Milk,milk 1 lit,207.0,Expense,PKR,26,3,2017,No
+2017-03-26 19:25:27,Saving Bank account 1,Household,Kirana,Smart,2711.7000000000003,Expense,PKR,26,3,2017,No
+2017-03-27 21:25:08,Saving Bank account 1,Food,Milk,milk 1lit ,207.0,Expense,PKR,27,3,2017,No
+2017-03-27 21:25:32,Saving Bank account 1,Household,Appliances,USB cord,897.0,Expense,PKR,27,3,2017,No
+2017-03-28 11:59:46,Cash,Food,beverage,Soda water,41.400000000000006,Expense,PKR,28,3,2017,No
+2017-03-30 20:15:18,Saving Bank account 1,Household,Kirana,,845.25,Expense,PKR,30,3,2017,No
+2017-03-30 20:15:18,Saving Bank account 1,Interest,,interest paid,1752.6,Income,PKR,30,3,2017,No
+2017-03-31 10:20:31,Cash,Transportation,auto,2 Current Residence to Place 0,103.5,Expense,PKR,31,3,2017,No
+2017-03-31 21:00:41,Cash,Transportation,auto,Place 0 to Current Residence,51.75,Expense,PKR,31,3,2017,No
+2017-03-31 21:01:20,Cash,Household,Hardware,Laptop repair (servicing+ 2gb ram upgrade + fan replacement + antivirus),8625.0,Expense,PKR,31,3,2017,No
+2017-03-31 21:02:45,Cash,Transportation,auto,Place 4 station to Place 4 plaza,51.75,Expense,PKR,31,3,2017,No
+2017-03-31 21:03:22,Cash,Food,Lunch,( pav bhaji + 2 extra pav + sabudana khichdi + kothimbir vada + masala bhat + piyush ),1707.75,Expense,PKR,31,3,2017,No
+2017-03-31 21:06:32,Cash,Transportation,Taxi,Dadar West to siddhivinayak,103.5,Expense,PKR,31,3,2017,No
+2017-03-31 21:07:22,Cash,Transportation,Taxi,siddhivinayak to shiv sena bhavan,103.5,Expense,PKR,31,3,2017,No
+2017-03-31 21:08:42,Cash,Transportation,Train,2 Place 0 to dadar return,207.0,Expense,PKR,31,3,2017,No
+2017-03-31 22:08:00,Saving Bank account 1,Salary,,From workplace ,193551.9,Income,PKR,31,3,2017,No
+2017-04-14 20:04:31,Saving Bank account 1,Family,Pocket money,,17250.0,Expense,PKR,14,4,2017,No
+2017-04-16 16:30:39,Saving Bank account 1,subscription,Tata Sky,,662.4000000000001,Expense,PKR,16,4,2017,No
+2017-04-17 19:56:53,Saving Bank account 1,Family,clothes,H&M clothes,5164.650000000001,Expense,PKR,17,4,2017,No
+2017-04-17 19:56:53,Saving Bank account 1,Food,Dinner,"The X restaurant, Place 1",3712.2,Expense,PKR,17,4,2017,No
+2017-04-18 13:19:27,Saving Bank account 1,Food,Milk,milk 1lit ,220.8,Expense,PKR,18,4,2017,No
+2017-04-18 18:20:51,Saving Bank account 1,Food,Ice cream,Raspberry dolly,69.0,Expense,PKR,18,4,2017,No
+2017-04-20 14:03:33,Saving Bank account 1,Food,Milk,milk 1lit ,220.8,Expense,PKR,20,4,2017,No
+2017-04-20 20:42:02,Saving Bank account 1,Household,Kirana,Smart point,2144.796,Expense,PKR,20,4,2017,No
+2017-04-21 20:26:04,Saving Bank account 1,Health,Medicine,Q-dee strip,138.0,Expense,PKR,21,4,2017,No
+2017-04-22 07:26:43,Saving Bank account 1,Food,Grocery,milk 1 lit (64) + paneer (75) + bread (30) + 6 eggs (36),707.25,Expense,PKR,22,4,2017,No
+2017-04-22 09:06:19,Saving Bank account 1,Food,beverage,sugarcane juice,69.0,Expense,PKR,22,4,2017,No
+2017-04-22 09:06:19,Saving Bank account 1,Transportation,Train,Place 0 to Vikhroli return,103.5,Expense,PKR,22,4,2017,No
+2017-04-23 23:52:40,Saving Bank account 1,Food,vegetables,Ladyfinger pav kg,51.75,Expense,PKR,23,4,2017,No
+2017-04-23 23:52:40,Saving Bank account 1,Food,snacks,2 Veg puff,138.0,Expense,PKR,23,4,2017,No
+2017-04-24 23:51:40,Saving Bank account 1,Other,,Family's Wristwatch repair,586.5,Expense,PKR,24,4,2017,No
+2017-04-25 09:20:48,Saving Bank account 1,Food,Milk,milk 1lit ,220.8,Expense,PKR,25,4,2017,No
+2017-04-25 09:21:02,Cash,Transportation,auto,2 Current Residence to Place 0,103.5,Expense,PKR,25,4,2017,No
+2017-04-25 09:21:21,Cash,Transportation,Train,2 Place 0 to Place 6 return,69.0,Expense,PKR,25,4,2017,No
+2017-04-25 09:21:54,Cash,Transportation,auto,Place 6 station to college,34.5,Expense,PKR,25,4,2017,No
+2017-04-25 10:30:36,Saving Bank account 1,Food,snacks,2 kachori,82.80000000000001,Expense,PKR,25,4,2017,No
+2017-04-26 11:25:09,Saving Bank account 1,Gift,,farewell contribution,1328.25,Expense,PKR,26,4,2017,No
+2017-04-27 09:35:41,Saving Bank account 1,Food,Milk,milk 1lit ,220.8,Expense,PKR,27,4,2017,No
+2017-04-28 11:17:49,Saving Bank account 1,subscription,Netflix,1 month subscription,514.0500000000001,Expense,PKR,28,4,2017,No
+2017-04-28 11:17:49,Saving Bank account 1,Food,Ice cream,Cup of butterscotch (20) + chocobar (10),103.5,Expense,PKR,28,4,2017,No
+2017-04-30 08:31:52,Saving Bank account 1,Food,Milk,milk 1lit ,220.8,Expense,PKR,30,4,2017,No
+2017-04-30 08:32:12,Saving Bank account 1,Food,Grocery,Chota bread,58.650000000000006,Expense,PKR,30,4,2017,No
+2017-04-30 19:53:16,Cash,Food,snacks,2 Pani Puri+ 1 samosa chat,379.5,Expense,PKR,30,4,2017,No
+2017-04-30 21:02:52,Saving Bank account 1,Food,Dinner,Chicken lollypop 8 pcs,762.45,Expense,PKR,30,4,2017,No
+2017-04-30 21:03:30,Cash,Food,fruits,6 bananas,86.25,Expense,PKR,30,4,2017,No
+2017-04-30 21:03:55,Cash,Transportation,auto,2 Place 0 to Current Residence,103.5,Expense,PKR,30,4,2017,No
+2017-04-30 21:08:58,Saving Bank account 1,Salary,,From workplace ,196501.65,Income,PKR,30,4,2017,No
+2017-04-30 23:04:01,Saving Bank account 1,Food,Ice cream,chocobar,34.5,Expense,PKR,30,4,2017,No
+2017-05-13 10:43:17,Saving Bank account 1,Food,breakfast,Medu vada 1 plate,120.75,Expense,PKR,13,5,2017,No
+2017-05-13 10:43:50,Cash,Food,Tea,,17.25,Expense,PKR,13,5,2017,No
+2017-05-13 18:02:10,Saving Bank account 1,Food,Lunch,4 chapati,69.0,Expense,PKR,13,5,2017,No
+2017-05-13 18:02:21,Cash,Food,Tea,,34.5,Expense,PKR,13,5,2017,No
+2017-05-13 20:51:02,Saving Bank account 1,Food,Dinner,Non veg overloaded pizza,834.9000000000001,Expense,PKR,13,5,2017,No
+2017-05-14 14:21:59,Saving Bank account 1,Food,Lunch,Non veg overloaded pizza,834.9000000000001,Expense,PKR,14,5,2017,No
+2017-05-14 20:06:03,Saving Bank account 1,Household,Kirana,Shev bhaji sev,172.5,Expense,PKR,14,5,2017,No
+2017-05-15 19:28:22,Saving Bank account 1,Food,breakfast,Poha 25+ tea 10,120.75,Expense,PKR,15,5,2017,No
+2017-05-15 19:28:42,Cash,Food,Dinner,Veg cheese grill sandwich,345.0,Expense,PKR,15,5,2017,No
+2017-05-15 20:42:20,Saving Bank account 1,subscription,Newspaper,March 210 + April 170,1311.0,Expense,PKR,15,5,2017,No
+2017-05-16 13:11:02,Cash,Food,Tea,,17.25,Expense,PKR,16,5,2017,No
+2017-05-16 13:22:48,Saving Bank account 1,Food,Lunch,Non veg combo meal,807.3000000000001,Expense,PKR,16,5,2017,No
+2017-05-16 14:39:07,Saving Bank account 1,Beauty,grooming,Razor Blade,852.1500000000001,Expense,PKR,16,5,2017,No
+2017-05-16 19:10:09,Cash,Food,Tea,,34.5,Expense,PKR,16,5,2017,No
+2017-05-17 10:27:35,Cash,Food,Tea,,34.5,Expense,PKR,17,5,2017,No
+2017-05-17 14:12:16,Saving Bank account 1,Food,Lunch,Full egg fried rice 100 + Manchurian dry 100,724.5,Expense,PKR,17,5,2017,No
+2017-05-17 14:12:16,Saving Bank account 1,Food,Ice cream,Vanila family pack,341.55,Expense,PKR,17,5,2017,No
+2017-05-17 14:12:16,Cash,Food,Tea,,17.25,Expense,PKR,17,5,2017,No
+2017-05-18 11:06:06,Cash,Food,Tea,,34.5,Expense,PKR,18,5,2017,No
+2017-05-18 11:06:19,Saving Bank account 1,Food,Milk,milk 1lit ,220.8,Expense,PKR,18,5,2017,No
+2017-05-18 11:06:30,Cash,Beauty,grooming,Shaving,172.5,Expense,PKR,18,5,2017,No
+2017-05-18 11:06:52,Saving Bank account 1,Food,breakfast,Poha,86.25,Expense,PKR,18,5,2017,No
+2017-05-18 16:11:08,Saving Bank account 1,Food,Lunch,Bhai poli,155.25,Expense,PKR,18,5,2017,No
+2017-05-18 16:11:26,Saving Bank account 1,Food,vegetables,,207.0,Expense,PKR,18,5,2017,No
+2017-05-18 16:11:48,Saving Bank account 1,Food,Dinner,pav bhaji + 5 pav extra,755.5500000000001,Expense,PKR,18,5,2017,No
+2017-05-18 16:11:48,Cash,Food,Tea,,34.5,Expense,PKR,18,5,2017,No
+2017-05-21 09:40:52,Cash,Transportation,auto,Decathlon to station,69.0,Expense,PKR,21,5,2017,No
+2017-05-21 15:26:54,Cash,Food,flour mill,3 kg ( 2kg bajari Rs 7 each + 1kg gahu & maka mix Rs.10),82.80000000000001,Expense,PKR,21,5,2017,No
+2017-05-21 15:33:51,Cash,Transportation,auto,2 Current Residence to Place 0,103.5,Expense,PKR,21,5,2017,No
+2017-05-21 15:34:55,Cash,Transportation,Train,2 Place 0 to Place 4 return,103.5,Expense,PKR,21,5,2017,No
+2017-05-22 09:44:08,Saving Bank account 1,Food,beverage,sugarcane juice,51.75,Expense,PKR,22,5,2017,No
+2017-05-22 09:55:12,Saving Bank account 1,Food,beverage,Coke 750ml,138.0,Expense,PKR,22,5,2017,No
+2017-05-22 17:29:38,Saving Bank account 1,Household,Appliances,3 pin Holder,172.5,Expense,PKR,22,5,2017,No
+2017-05-22 17:30:12,Saving Bank account 1,Food,flour mill,M D sure 2kg atta,303.6,Expense,PKR,22,5,2017,No
+2017-05-23 22:08:10,Saving Bank account 1,Education,Stationary,White board pen 25 + duster 50,258.75,Expense,PKR,23,5,2017,No
+2017-05-23 22:09:27,Cash,Household,Kirana,Rasna orange,158.70000000000002,Expense,PKR,23,5,2017,No
+2017-05-23 22:10:00,Saving Bank account 1,Food,snacks,Gupta bhel,86.25,Expense,PKR,23,5,2017,No
+2017-05-24 08:46:32,Saving Bank account 1,Food,Milk,milk 1lit ,220.8,Expense,PKR,24,5,2017,No
+2017-05-24 08:46:43,Cash,Transportation,Train,Place 0 to Vikhroli return,103.5,Expense,PKR,24,5,2017,No
+2017-05-24 08:46:43,Cash,Food,snacks,Samosa pav @ kurla,51.75,Expense,PKR,24,5,2017,No
+2017-05-24 08:46:43,Saving Bank account 1,subscription,Cable TV,,900.45,Expense,PKR,24,5,2017,No
+2017-05-25 08:47:34,Cash,Food,snacks,Ragda Puri,103.5,Expense,PKR,25,5,2017,No
+2017-05-25 08:47:34,Cash,Transportation,Train,Place 0 to Vikhroli single,51.75,Expense,PKR,25,5,2017,No
+2017-05-27 13:21:01,Saving Bank account 1,Food,vegetables,Pav kg tomato,69.0,Expense,PKR,27,5,2017,No
+2017-05-27 13:21:21,Saving Bank account 1,Education,Stationary,Print outs+ Xerox,69.0,Expense,PKR,27,5,2017,No
+2017-05-27 18:20:47,Saving Bank account 1,Food,Milk,milk 1lit ,220.8,Expense,PKR,27,5,2017,No
+2017-05-28 19:16:01,Saving Bank account 1,Food,breakfast,Medu vada 1 plate + dal vada 1,241.5,Expense,PKR,28,5,2017,No
+2017-05-28 19:27:36,Saving Bank account 1,Food,vegetables,,207.0,Expense,PKR,28,5,2017,No
+2017-05-28 19:27:51,Cash,Food,Grocery,,103.5,Expense,PKR,28,5,2017,No
+2017-05-28 19:39:11,Saving Bank account 1,Food,Grocery,Mango 1 kg,483.0,Expense,PKR,28,5,2017,No
+2017-05-28 19:39:31,Cash,Food,vegetables,,155.25,Expense,PKR,28,5,2017,No
+2017-05-28 20:47:18,Saving Bank account 1,Food,snacks,2 kachori,82.80000000000001,Expense,PKR,28,5,2017,No
+2017-05-28 20:47:33,Saving Bank account 1,Household,Kirana,,3436.2000000000003,Expense,PKR,28,5,2017,No
+2017-05-29 09:25:48,Cash,Education,Stationary,Xerox,103.5,Expense,PKR,29,5,2017,No
+2017-05-29 09:25:48,Saving Bank account 1,Food,Grocery,Half kg potato + half kg banana,120.75,Expense,PKR,29,5,2017,No
+2017-05-29 09:25:48,Saving Bank account 1,Food,Milk,milk 1lit ,220.8,Expense,PKR,29,5,2017,No
+2017-05-30 09:41:14,Cash,Transportation,auto,2 Current Residence to Place 0,103.5,Expense,PKR,30,5,2017,No
+2017-05-30 09:41:31,Cash,Transportation,Train,2 Place 0 to Place P return,276.0,Expense,PKR,30,5,2017,No
+2017-05-30 11:35:31,Saving Bank account 1,Food,Tea,2 tea,117.3,Expense,PKR,30,5,2017,No
+2017-05-30 17:02:53,Cash,Household,Kitchen,Crockery,948.75,Expense,PKR,30,5,2017,No
+2017-05-30 17:04:07,Cash,Food,Lunch,2 veg Frankie,414.0,Expense,PKR,30,5,2017,No
+2017-05-30 17:04:28,Cash,Food,beverage,Slice + Pepsi,138.0,Expense,PKR,30,5,2017,No
+2017-05-30 19:57:58,Saving Bank account 1,Food,Dinner,5 chapati,86.25,Expense,PKR,30,5,2017,No
+2017-05-30 19:57:58,Cash,Transportation,auto,2 Place 0 to Current Residence,103.5,Expense,PKR,30,5,2017,No
+2017-05-31 10:25:17,Saving Bank account 1,Salary,,From workplace ,196546.5,Income,PKR,31,5,2017,No
+2017-05-31 20:47:17,Saving Bank account 1,Apparel,Clothing,undergarments pair of Jockey,2259.75,Expense,PKR,31,5,2017,No
+2017-06-13 20:06:49,Saving Bank account 1,Food,Milk,milk 1lit ,220.8,Expense,PKR,13,6,2017,No
+2017-06-15 19:01:47,Saving Bank account 1,Other,,Courier,172.5,Expense,PKR,15,6,2017,No
+2017-06-15 19:01:47,Saving Bank account 1,Education,Stationary,Print outs 3 + Xerox 16 + envelope 10,100.05,Expense,PKR,15,6,2017,No
+2017-06-16 19:03:15,Saving Bank account 1,Food,Milk,milk 1lit ,220.8,Expense,PKR,16,6,2017,No
+2017-06-16 23:18:37,Saving Bank account 1,Gift,,Jeff kellar's winning attitude,472.65,Expense,PKR,16,6,2017,No
+2017-06-17 10:25:13,Saving Bank account 1,Food,Milk,milk 1lit ,220.8,Expense,PKR,17,6,2017,No
+2017-06-18 20:01:09,Cash,Transportation,Bus,Kala circle to H,51.75,Expense,PKR,18,6,2017,No
+2017-06-18 20:01:48,Cash,Transportation,Bus,H to kala circle,41.400000000000006,Expense,PKR,18,6,2017,No
+2017-06-19 10:19:14,Saving Bank account 1,Food,Milk,milk 1lit ,220.8,Expense,PKR,19,6,2017,No
+2017-06-19 10:19:33,Saving Bank account 1,Food,breakfast,Bread,62.1,Expense,PKR,19,6,2017,No
+2017-06-19 10:19:53,Cash,Food,flour mill,M D sure 3kg atta,486.4500000000001,Expense,PKR,19,6,2017,No
+2017-06-19 10:19:53,Saving Bank account 1,Food,Grocery,Shev bhaji sev pav kg,207.0,Expense,PKR,19,6,2017,No
+2017-06-19 10:19:53,Saving Bank account 1,Food,Grocery,Amul malai paneer pav kg,276.0,Expense,PKR,19,6,2017,No
+2017-06-20 21:08:28,Saving Bank account 1,Gift,,Cupcake mould,862.5,Expense,PKR,20,6,2017,No
+2017-06-22 23:02:07,Cash,Transportation,auto,2 Current Residence to Place 0,103.5,Expense,PKR,22,6,2017,No
+2017-06-22 23:03:08,Cash,Transportation,train,2 Place 0 to WS returns,69.0,Expense,PKR,22,6,2017,No
+2017-06-22 23:04:54,Saving Bank account 1,Food,Eating out,Taco Bell veg combo,900.45,Expense,PKR,22,6,2017,No
+2017-06-22 23:05:45,Saving Bank account 1,Gift,,Forrest essential after shave,5502.75,Expense,PKR,22,6,2017,No
+2017-06-22 23:26:41,Saving Bank account 1,Food,Milk,milk 1lit ,220.8,Expense,PKR,22,6,2017,No
+2017-06-23 09:52:10,Saving Bank account 1,Food,Grocery,Shengdane pav kg,120.75,Expense,PKR,23,6,2017,No
+2017-06-23 09:52:10,Saving Bank account 1,Other,,Credit Card fee,2035.5,Expense,PKR,23,6,2017,No
+2017-06-24 09:11:16,Saving Bank account 1,Food,Milk,milk 1lit ,220.8,Expense,PKR,24,6,2017,No
+2017-06-25 13:38:59,Cash,Transportation,Train,Place 0 to WS return,34.5,Expense,PKR,25,6,2017,No
+2017-06-26 11:38:08,Saving Bank account 1,Food,Milk,milk 1lit ,220.8,Expense,PKR,26,6,2017,No
+2017-06-26 11:38:23,Saving Bank account 1,Food,Grocery,Dahi 2 packets,69.0,Expense,PKR,26,6,2017,No
+2017-06-26 11:38:42,Saving Bank account 1,Food,snacks,2 kachori,82.80000000000001,Expense,PKR,26,6,2017,No
+2017-06-27 09:32:15,Cash,Health,Medicine,Cough-sills 4 pcs,41.400000000000006,Expense,PKR,27,6,2017,No
+2017-06-27 10:00:50,Saving Bank account 1,Fixed Deposit,,New FD opened for 3 years,690000.0,Transfer-Out,PKR,27,6,2017,Yes
+2017-06-27 10:04:24,Saving Bank account 1,Recurring Deposit,,New RD opened for 3 years,3450.0,Transfer-Out,PKR,27,6,2017,No
+2017-06-28 09:18:53,Cash,maid,,House Cleaning + washing utensils,6900.0,Expense,PKR,28,6,2017,No
+2017-06-28 09:41:39,Saving Bank account 1,Family,Pocket money,,5175.0,Expense,PKR,28,6,2017,No
+2017-06-28 10:19:28,Saving Bank account 1,Food,Grocery,5rs mirchi + crack-jack,51.75,Expense,PKR,28,6,2017,No
+2017-06-28 13:34:41,Saving Bank account 1,Food,Lunch,Chicken lollypop 4 pcs,643.4250000000001,Expense,PKR,28,6,2017,No
+2017-06-28 22:50:55,Cash,Transportation,auto,2 Current Residence to Place 0,103.5,Expense,PKR,28,6,2017,No
+2017-06-28 22:51:12,Cash,Transportation,Train,2 Place 0 to tilaknagar single side,103.5,Expense,PKR,28,6,2017,No
+2017-06-29 07:48:30,Cash,Transportation,auto,Place 2 station to hospital 2 seat,172.5,Expense,PKR,29,6,2017,No
+2017-06-29 19:49:10,Saving Bank account 1,Beauty,grooming,Shaving,207.0,Expense,PKR,29,6,2017,No
+2017-06-30 07:57:06,Saving Bank account 1,Interest,,interest paid,3001.5,Income,PKR,30,6,2017,No
+2017-06-30 07:57:44,Saving Bank account 1,Salary,,From workplace ,196501.65,Income,PKR,30,6,2017,No
+2017-06-30 08:43:56,Saving Bank account 1,Gift,,Forrest essential perfume,16560.0,Expense,PKR,30,6,2017,No
+2017-07-14 20:01:33,Saving Bank account 1,Food,Ice cream,chocobar,51.75,Expense,PKR,14,7,2017,No
+2017-07-15 13:07:28,Saving Bank account 1,Food,Milk,Half lit  milk,110.4,Expense,PKR,15,7,2017,No
+2017-07-15 19:01:54,Saving Bank account 1,Food,snacks,Gupta bhel,86.25,Expense,PKR,15,7,2017,No
+2017-07-17 12:58:38,Saving Bank account 1,Transportation,Train,2 Place 0 to TB returns,138.0,Expense,PKR,17,7,2017,No
+2017-07-17 16:21:41,Credit Card,Food,Lunch,1 dal makhani rice(200)+ 1 chicken tikka rice(220)+chocolate pastry (120),1863.0,Expense,PKR,17,7,2017,No
+2017-07-17 16:53:08,Saving Bank account 1,Food,beverage,Lemon tea,207.0,Expense,PKR,17,7,2017,No
+2017-07-17 22:16:02,Saving Bank account 1,Apparel,Laundry,9 clothes ironing,217.35,Expense,PKR,17,7,2017,No
+2017-07-17 22:16:39,Cash,Transportation,auto,2 Place 0 to Current Residence,103.5,Expense,PKR,17,7,2017,No
+2017-07-18 20:55:35,Cash,Food,Grocery,onion 2.5 kg,189.75,Expense,PKR,18,7,2017,No
+2017-07-18 20:58:13,Cash,Other,,Hari oil depo coupon,86.25,Income,PKR,18,7,2017,No
+2017-07-18 20:58:55,Saving Bank account 1,Household,Hardware,Umbrella,1863.0,Expense,PKR,18,7,2017,No
+2017-07-18 20:59:33,Saving Bank account 1,Household,Hardware,Pakad,828.0,Expense,PKR,18,7,2017,No
+2017-07-18 21:00:34,Saving Bank account 1,Food,Grocery,potato 1kg,120.75,Expense,PKR,18,7,2017,No
+2017-07-18 21:02:27,Cash,Food,flour mill,Gehu 3 kg Rs21 + bajari 1kg Rs 7 + dal 1.5 kg Rs15,148.35,Expense,PKR,18,7,2017,No
+2017-07-18 21:44:29,Saving Bank account 1,Food,Water,5 litres can,241.5,Expense,PKR,18,7,2017,No
+2017-07-18 21:44:59,Saving Bank account 1,Food,beverage,Thumbs up 250ml,69.0,Expense,PKR,18,7,2017,No
+2017-07-19 08:44:20,Saving Bank account 1,Food,Milk,Half lit  milk,110.4,Expense,PKR,19,7,2017,No
+2017-07-19 08:44:38,Saving Bank account 1,Food,Eggs,4 eggs,75.9,Expense,PKR,19,7,2017,No
+2017-07-20 12:03:16,Saving Bank account 1,Food,Milk,Half lit  milk,110.4,Expense,PKR,20,7,2017,No
+2017-07-20 15:14:48,Credit Card,subscription,Mobile Service Provider,Annual recharge,8780.25,Expense,PKR,20,7,2017,No
+2017-07-20 19:31:37,Cash,Food,snacks,Puri packet of 50 pcs,172.5,Expense,PKR,20,7,2017,No
+2017-07-20 19:32:11,Saving Bank account 1,Food,Grocery,,303.6,Expense,PKR,20,7,2017,No
+2017-07-21 08:46:09,Saving Bank account 1,Food,Milk,Half lit  milk,113.85,Expense,PKR,21,7,2017,No
+2017-07-21 13:16:01,Saving Bank account 1,Other,,CA  - income tax filing,3450.0,Expense,PKR,21,7,2017,No
+2017-07-21 13:36:14,Saving Bank account 1,Equity Mutual Fund C,,,3450.0,Transfer-Out,PKR,21,7,2017,No
+2017-07-22 14:55:35,Saving Bank account 1,Food,Milk,milk 1lit ,220.8,Expense,PKR,22,7,2017,No
+2017-07-23 12:30:28,Saving Bank account 1,Food,Grocery,Amul butter,179.4,Expense,PKR,23,7,2017,No
+2017-07-23 15:57:31,Saving Bank account 1,Household,Appliances,Tata sky STB (1299)+ 1 month recharge (226)+ extra wire 45meters(540),7124.25,Expense,PKR,23,7,2017,No
+2017-07-23 16:02:41,Cash,Household,Appliances,For tata sky installation (100 rs given by Family ),690.0,Expense,PKR,23,7,2017,No
+2017-07-24 10:03:43,Saving Bank account 1,Food,Milk,milk 1lit ,220.8,Expense,PKR,24,7,2017,No
+2017-07-24 10:04:20,Saving Bank account 1,Food,Eggs,4 eggs,75.9,Expense,PKR,24,7,2017,No
+2017-07-24 21:52:22,Credit Card,Food,snacks,Garlic bread + periperi masala fries,855.6,Expense,PKR,24,7,2017,No
+2017-07-25 19:31:06,Saving Bank account 1,Tourism,Trip,Tours and Travel,69000.0,Expense,PKR,25,7,2017,Yes
+2017-07-26 19:31:06,Saving Bank account 1,Tax refund,,,66757.5,Income,PKR,26,7,2017,Yes
+2017-07-27 05:39:02,Recurring Deposit,Maturity amount,,RD1 matured,139124.7,Income,PKR,27,7,2017,Yes
+2017-07-27 05:40:08,Recurring Deposit,Maturity amount,,RD2 matured,139124.7,Income,PKR,27,7,2017,Yes
+2017-07-27 06:05:30,Cash,Household,Appliances,Distilled water refill Inverter (Rs.100 given by Family),690.0,Expense,PKR,27,7,2017,No
+2017-07-27 20:05:23,Credit Card,Food,Lunch,Chicken lollypop 4 pcs,700.35,Expense,PKR,27,7,2017,No
+2017-07-27 20:33:23,Credit Card,Food,Dinner,Non veg overloaded pizza,741.75,Expense,PKR,27,7,2017,No
+2017-07-28 11:30:45,Cash,Transportation,auto,2 Current Residence to Place 0,103.5,Expense,PKR,28,7,2017,No
+2017-07-28 11:31:02,Cash,Transportation,Train,2 Place 0 to Place 6 return,69.0,Expense,PKR,28,7,2017,No
+2017-07-28 11:31:24,Credit Card,Health,Hospital,Hospital consultation,10522.5,Expense,PKR,28,7,2017,No
+2017-07-28 15:25:34,Credit Card,Health,Medicine,Hospital consultation,576.15,Expense,PKR,28,7,2017,No
+2017-07-28 16:20:14,Cash,Transportation,auto,2 Place 0 to Current Residence,103.5,Expense,PKR,28,7,2017,No
+2017-07-29 09:48:55,Saving Bank account 1,Transportation,auto,ola auto - Current Residence to hospital Place 6,334.65000000000003,Expense,PKR,29,7,2017,No
+2017-07-29 13:30:49,Credit Card,Health,Medicine,Hospital consultation,1918.2,Expense,PKR,29,7,2017,No
+2017-07-29 13:30:49,Saving Bank account 1,Food,Milk,milk 1lit ,220.8,Expense,PKR,29,7,2017,No
+2017-07-30 07:48:51,Saving Bank account 1,Salary,,From workplace ,212444.1,Income,PKR,30,7,2017,No
+2017-07-30 14:19:42,Cash,Transportation,Train,Place 0 to Place 4 return,69.0,Expense,PKR,30,7,2017,No
+2017-07-30 14:20:18,Cash,Food,snacks,Chicken roll kasha,345.0,Expense,PKR,30,7,2017,No
+2017-07-30 15:36:42,Saving Bank account 1,Household,Appliances,Laptop repair ( 128gb SSD rs 2200+ 500gb HDD Rs.1800 + Msoffice+ windows),10350.0,Expense,PKR,30,7,2017,No
+2017-07-30 15:38:49,Cash,Household,Appliances,Laptop repair,3450.0,Expense,PKR,30,7,2017,No
+2017-07-30 21:33:27,Saving Bank account 1,Transportation,Travels,2 Neeta travels : Place A to pune,3087.75,Expense,PKR,30,7,2017,No
+2017-07-30 21:33:27,Cash,Food,Grocery,Dahi 2 packets,69.0,Expense,PKR,30,7,2017,No
+2017-07-30 21:33:27,Saving Bank account 1,Gpay Reward,,,20.700000000000003,Income,PKR,30,7,2017,No
+2017-07-31 09:51:59,Saving Bank account 1,Food,Eggs,4 eggs,75.9,Expense,PKR,31,7,2017,No
+2017-07-31 12:12:39,Cash,Transportation,auto,ola auto - Current Residence to McD,224.25,Expense,PKR,31,7,2017,No
+2017-07-31 21:14:52,Saving Bank account 1,Food,Dinner,Catering Service:Chicken masala (90)+2 chapati (10),345.0,Expense,PKR,31,7,2017,No
+2017-08-14 11:44:04,Credit Card,Household,Kirana,Biscuits+ onions,386.4,Expense,PKR,14,8,2017,No
+2017-08-14 20:03:33,Credit Card,Household,Appliances,Steam machine,1104.0,Expense,PKR,14,8,2017,No
+2017-08-15 12:51:45,Saving Bank account 1,Food,Milk,1.5 lit milk ,341.55,Expense,PKR,15,8,2017,No
+2017-08-15 19:36:01,Credit Card,Household,Appliances,Wifi Router TP link,4830.0,Expense,PKR,15,8,2017,No
+2017-08-17 19:36:33,Cash,Food,snacks,2 Bhaji pav + 1 vadapav,155.25,Expense,PKR,17,8,2017,No
+2017-08-17 19:38:57,Cash,Household,Kirana,Sugar 1kg Rs.55 + shengdana Rs.33,303.6,Expense,PKR,17,8,2017,No
+2017-08-17 23:22:21,Cash,maid,,,3519.0,Expense,PKR,17,8,2017,No
+2017-08-18 15:33:07,Cash,Family,Pocket money,,345.0,Expense,PKR,18,8,2017,No
+2017-08-19 11:48:49,Saving Bank account 1,subscription,Tata Sky,Current Residence - Tata Play recharge,748.6500000000001,Expense,PKR,19,8,2017,No
+2017-08-19 11:49:24,Cash,Household,Kirana,Dettol sanitizer,155.25,Expense,PKR,19,8,2017,No
+2017-08-19 11:49:46,Cash,Household,Kirana,Colgate max fresh small,69.0,Expense,PKR,19,8,2017,No
+2017-08-19 11:50:16,Cash,Household,Appliances,2 locks for bags,207.0,Expense,PKR,19,8,2017,No
+2017-08-20 00:07:49,Credit Card,Household,Furniture,Foldable wardrobe,1963.05,Expense,PKR,20,8,2017,No
+2017-08-20 00:08:12,Credit Card,Other,,Mobile cover moto G5 plus,824.5500000000001,Expense,PKR,20,8,2017,No
+2017-08-20 09:37:13,Cash,Apparel,Laundry,clothes ironing : Rs 6 per item,165.60000000000002,Expense,PKR,20,8,2017,No
+2017-08-20 20:57:08,Cash,Transportation,auto,2 Current Residence to Place 0,103.5,Expense,PKR,20,8,2017,No
+2017-08-20 20:57:31,Cash,Transportation,Train,2 Place 0 to dadar return,207.0,Expense,PKR,20,8,2017,No
+2017-08-20 20:58:05,Cash,Transportation,Taxi,Dadar West to siddhivinayak,86.25,Expense,PKR,20,8,2017,No
+2017-08-20 20:58:50,Saving Bank account 1,Transportation,Taxi,Ola cab - siddhivinayak to BKC,1245.45,Expense,PKR,20,8,2017,No
+2017-08-20 20:59:43,Cash,Transportation,auto,BKC to kurla station,207.0,Expense,PKR,20,8,2017,No
+2017-08-20 21:00:13,Credit Card,Food,Lunch,280 chicken dum biryani+ 200 paneer tikka laziz + GST,1738.8000000000002,Expense,PKR,20,8,2017,No
+2017-08-20 21:01:24,Credit Card,Food,Ice cream,Baskin Robbins,572.7,Expense,PKR,20,8,2017,No
+2017-08-21 11:52:41,Saving Bank account 1,Education,Stationary,15 fevistick + 12 xerox2 & print2,93.15,Expense,PKR,21,8,2017,No
+2017-08-21 11:58:05,Saving Bank account 1,Beauty,Accessories,Lens cleaner,276.0,Expense,PKR,21,8,2017,No
+2017-08-21 11:59:10,Saving Bank account 1,Food,Grocery,1.5 kg onions,113.85,Expense,PKR,21,8,2017,No
+2017-08-21 18:02:12,Saving Bank account 1,Beauty,grooming,Shaving,172.5,Expense,PKR,21,8,2017,No
+2017-08-21 18:02:58,Saving Bank account 1,Household,Appliances,Selfie stick Bluetooth tripod,966.0,Expense,PKR,21,8,2017,No
+2017-08-22 16:11:00,Cash,Family,Pocket money,,17250.0,Expense,PKR,22,8,2017,No
+2017-08-22 16:11:00,Cash,Household,Kitchen,Mahanagar Gas connection installation,1035.0,Expense,PKR,22,8,2017,No
+2017-08-23 14:07:44,Cash,Transportation,Taxi,Ola cab - Current Residence to Domestic airport T1,2932.5,Expense,PKR,23,8,2017,No
+2017-08-23 14:08:23,Cash,Food,Lunch,180 Chicken Sandwich + 120 vada pav & Samosa,1035.0,Expense,PKR,23,8,2017,No
+2017-08-24 16:09:05,Credit Card,Apparel,Clothing,Jaipuri handprinted Maharani Saree (1850 Two pcs + 1500 1 pc),17940.0,Expense,PKR,24,8,2017,No
+2017-08-24 16:09:59,Credit Card,Household,home decor,2 Bedsheets (1500 each),10350.0,Expense,PKR,24,8,2017,No
+2017-08-24 22:31:56,Credit Card,Food,Eating out,roof top lounge  (200 french fries + 100 masala tea)+15 GST + 10 Tip,1121.25,Expense,PKR,24,8,2017,No
+2017-08-24 22:31:56,Cash,Transportation,auto,Auto : Mahal to hotel,138.0,Expense,PKR,24,8,2017,No
+2017-08-25 05:51:28,Cash,Health,Medicine,strepsils 13 pills,134.55,Expense,PKR,25,8,2017,No
+2017-08-26 07:46:28,Saving Bank account 1,Maturity amount,,FD matured,213051.3,Income,PKR,26,8,2017,No
+2017-08-26 22:17:11,Cash,Food,breakfast,Parle G chota pack,17.25,Expense,PKR,26,8,2017,No
+2017-08-27 04:44:32,Cash,Transportation,auto,market to resort,690.0,Expense,PKR,27,8,2017,No
+2017-08-27 04:44:32,Cash,Health,Medicine,Vicks inhaler,203.55,Expense,PKR,27,8,2017,No
+2017-08-27 04:44:32,Cash,Tourism,Trip,Misc expense,345.0,Expense,PKR,27,8,2017,No
+2017-08-28 12:06:47,Cash,Food,snacks,2 chips packets,69.0,Expense,PKR,28,8,2017,No
+2017-08-28 12:06:47,Cash,Tourism,Trip,Misc expense,690.0,Expense,PKR,28,8,2017,No
+2017-08-29 12:03:54,Cash,Transportation,Taxi,Ola cab - Domestic airport T1 to Current Residence,2208.0,Expense,PKR,29,8,2017,No
+2017-08-30 18:55:32,Saving Bank account 1,Salary,,From workplace ,212444.1,Income,PKR,30,8,2017,No
+2017-08-30 21:59:50,Saving Bank account 1,Health,Medicine,5 Meftal spas,75.9,Expense,PKR,30,8,2017,No
+2017-08-31 06:56:17,Saving Bank account 1,Food,Milk,1.5 lit milk ,341.55,Expense,PKR,31,8,2017,No
+2017-08-31 06:56:39,Saving Bank account 1,Gpay Reward,,,48.3,Income,PKR,31,8,2017,No
+2017-08-31 06:56:51,Saving Bank account 1,Gpay Reward,,,17.25,Income,PKR,31,8,2017,No
+2017-08-31 10:21:37,Cash,Household,Kirana,Nariyal,86.25,Expense,PKR,31,8,2017,No
+2017-08-31 10:22:07,Cash,Household,Kirana,Janeyu,17.25,Expense,PKR,31,8,2017,No
+2017-08-31 10:22:22,Cash,Household,Kirana,Honey small bottle,34.5,Expense,PKR,31,8,2017,No
+2017-08-31 10:23:19,Cash,Household,Toiletries,Odonil,207.0,Expense,PKR,31,8,2017,No
+2017-08-31 16:31:29,Saving Bank account 2,Other,,Sms charges + GST,61.065,Expense,PKR,31,8,2017,No
+2017-09-13 21:24:47,Saving Bank account 1,Food,Dinner,Sugaran Kitchen,379.5,Expense,PKR,13,9,2017,No
+2017-09-14 06:21:12,Saving Bank account 1,subscription,Tata Sky,Current Residence - Tata Play recharge,345.0,Expense,PKR,14,9,2017,No
+2017-09-14 06:21:12,Credit Card,Food,Lunch,,972.9,Expense,PKR,14,9,2017,No
+2017-09-15 09:56:20,Saving Bank account 1,Food,Milk,milk 1lit ,227.7,Expense,PKR,15,9,2017,No
+2017-09-15 09:56:30,Saving Bank account 1,Food,breakfast,2 plates poha,172.5,Expense,PKR,15,9,2017,No
+2017-09-15 09:56:50,Saving Bank account 1,Food,Tea,2 tea parcel,82.80000000000001,Expense,PKR,15,9,2017,No
+2017-09-15 11:46:38,Saving Bank account 1,Transportation,Travels,2 Place 2 to Place 1 - Novelty tour and travels,4830.0,Expense,PKR,15,9,2017,No
+2017-09-15 11:47:49,Saving Bank account 1,Health,Hospital,Doctor Fees,517.5,Expense,PKR,15,9,2017,No
+2017-09-15 11:48:08,Saving Bank account 1,Health,Medicine,,1286.85,Expense,PKR,15,9,2017,No
+2017-09-15 11:48:48,Cash,Food,fruits,Nariyal,189.75,Expense,PKR,15,9,2017,No
+2017-09-15 13:32:36,Saving Bank account 1,Food,Lunch,,448.5,Expense,PKR,15,9,2017,No
+2017-09-15 22:32:40,Cash,Food,Dinner,Sugaran Kitchen,207.0,Expense,PKR,15,9,2017,No
+2017-09-17 10:50:09,Saving Bank account 1,Food,Milk,1.5 lit milk ,341.55,Expense,PKR,17,9,2017,No
+2017-09-17 10:50:23,Saving Bank account 1,Food,Bread,,120.75,Expense,PKR,17,9,2017,No
+2017-09-17 10:50:40,Credit Card,Household,Kirana,Supermart,1925.1,Expense,PKR,17,9,2017,No
+2017-09-17 12:45:37,Saving Bank account 1,Health,Medicine,,520.95,Expense,PKR,17,9,2017,No
+2017-09-17 21:47:23,Saving Bank account 1,Household,Kirana,,393.3,Expense,PKR,17,9,2017,No
+2017-09-18 10:22:20,Cash,Food,fruits,Nariyal,189.75,Expense,PKR,18,9,2017,No
+2017-09-18 10:22:42,Cash,Food,fruits,half kg chiku,207.0,Expense,PKR,18,9,2017,No
+2017-09-18 20:35:36,Saving Bank account 1,Health,Medicine,,189.75,Expense,PKR,18,9,2017,No
+2017-09-20 14:01:26,Cash,Family,Pocket money,,69.0,Expense,PKR,20,9,2017,No
+2017-09-20 14:01:38,Saving Bank account 1,Other,,CSR,345.0,Expense,PKR,20,9,2017,No
+2017-09-20 19:14:29,Saving Bank account 1,Health,Health,Surgical gloves pair,69.0,Expense,PKR,20,9,2017,No
+2017-09-21 07:52:53,Cash,Family,Pocket money,,241.5,Expense,PKR,21,9,2017,No
+2017-09-21 08:05:45,Cash,Transportation,Train,Place 0 to dadar return,103.5,Expense,PKR,21,9,2017,No
+2017-09-21 12:45:22,Cash,Food,Tea,,34.5,Expense,PKR,21,9,2017,No
+2017-09-21 12:45:28,Cash,Food,snacks,Vadapav,51.75,Expense,PKR,21,9,2017,No
+2017-09-21 15:06:36,Cash,Transportation,auto,Place 0 to Current Residence,51.75,Expense,PKR,21,9,2017,No
+2017-09-21 15:07:52,Cash,Other,,Umbrella cover repair,34.5,Expense,PKR,21,9,2017,No
+2017-09-23 21:04:58,Saving Bank account 1,Food,Dinner,Chicken masala gravy,345.0,Expense,PKR,23,9,2017,No
+2017-09-24 11:36:37,Saving Bank account 1,Beauty,grooming,hair cut,345.0,Expense,PKR,24,9,2017,No
+2017-09-24 11:36:54,Cash,Food,Sweets,Half kg pedhe,966.0,Expense,PKR,24,9,2017,No
+2017-09-24 15:58:33,Credit Card,Culture,Movie,2,1932.0,Expense,PKR,24,9,2017,No
+2017-09-24 21:05:24,Cash,Transportation,Train,Place 0 to WS return,34.5,Expense,PKR,24,9,2017,No
+2017-09-24 21:05:55,Cash,Transportation,auto,2 Place 0 to Current Residence,103.5,Expense,PKR,24,9,2017,No
+2017-09-25 17:56:56,Saving Bank account 1,Food,fruits,Apple 2 kg (110) + Banana 1kg (80),1035.0,Expense,PKR,25,9,2017,No
+2017-09-25 17:57:52,Saving Bank account 1,Food,fruits,half kg chiku,103.5,Expense,PKR,25,9,2017,No
+2017-09-27 15:53:49,Saving Bank account 1,Gift,,farewell contribution,1152.3,Expense,PKR,27,9,2017,No
+2017-09-27 15:55:05,Saving Bank account 1,Gpay Reward,,,20.700000000000003,Income,PKR,27,9,2017,No
+2017-09-27 20:17:00,Cash,Household,Kirana,,1076.4,Expense,PKR,27,9,2017,No
+2017-09-28 16:58:46,Saving Bank account 1,Transportation,Travels,2 Place 1 to Place 2 - Novelty tour and travels,8238.6,Expense,PKR,28,9,2017,No
+2017-09-28 18:32:23,Saving Bank account 1,subscription,Tata Sky,Current Residence - Tata Play recharge,741.75,Expense,PKR,28,9,2017,No
+2017-09-29 21:52:32,Saving Bank account 1,Health,Medicine,3 tablet Nor tz,72.45,Expense,PKR,29,9,2017,No
+2017-09-29 21:53:08,Cash,Food,Ice cream,Vanila cup,34.5,Expense,PKR,29,9,2017,No
+2017-09-29 21:53:28,Cash,Food,snacks,Gupta bhel,86.25,Expense,PKR,29,9,2017,No
+2017-09-29 21:53:47,Cash,Apparel,Laundry,clothes ironing : Rs 6 per item,207.0,Expense,PKR,29,9,2017,No
+2017-09-30 07:40:38,Saving Bank account 1,Interest,,interest paid,2684.1000000000004,Income,PKR,30,9,2017,No
+2017-09-30 10:12:34,Saving Bank account 1,Salary,,From workplace ,212444.1,Income,PKR,30,9,2017,No
+2017-09-30 17:03:55,Cash,Household,Kitchen,Cooktop installation+ base,2070.0,Expense,PKR,30,9,2017,No
+2017-09-30 20:22:53,Cash,Food,Grocery,vegetables,103.5,Expense,PKR,30,9,2017,No
+2017-09-30 20:23:13,Saving Bank account 1,Food,Grocery,vegetables,465.75,Expense,PKR,30,9,2017,No
+2017-09-30 20:24:02,Saving Bank account 1,Household,Kirana,Supermart,534.75,Expense,PKR,30,9,2017,No
+2017-09-30 20:24:16,Saving Bank account 1,Health,Medicine,Candid dusting powder,203.55,Expense,PKR,30,9,2017,No
+2017-10-13 12:33:18,Cash,Family,Pocket money,,241.5,Expense,PKR,13,10,2017,No
+2017-10-17 13:18:33,Saving Bank account 1,Petty cash,,From Family,10350.0,Income,PKR,17,10,2017,No
+2017-10-18 19:16:25,Credit Card,Transportation,train,2 Place 3 to Place 2 : Amritsar express 3AC,4246.95,Expense,PKR,18,10,2017,No
+2017-10-18 19:24:45,Credit Card,Transportation,train,2 Place 2 to Place 3 : Sevagram express 3AC,4598.85,Expense,PKR,18,10,2017,No
+2017-10-19 21:44:36,Cash,Food,snacks,Gupta bhel,86.25,Expense,PKR,19,10,2017,No
+2017-10-20 19:54:58,Cash,Festivals,Diwali,Rangoli + stamp,69.0,Expense,PKR,20,10,2017,No
+2017-10-20 23:03:35,Saving Bank account 1,Gift,,farewell contribution,690.0,Expense,PKR,20,10,2017,No
+2017-10-21 13:43:21,Cash,maid,,,6900.0,Expense,PKR,21,10,2017,No
+2017-10-21 19:30:30,Cash,Food,Grocery,Onion half kg 13 + milkybar 10 + Colgate maxfresh 10,113.85,Expense,PKR,21,10,2017,No
+2017-10-21 21:32:40,Credit Card,Other,,ipad cover + case,6513.6,Expense,PKR,21,10,2017,No
+2017-10-22 18:35:25,Cash,Transportation,auto,Current Residence to Place 1 bus stop highway,172.5,Expense,PKR,22,10,2017,No
+2017-10-23 04:23:50,Saving Bank account 1,subscription,Tata Sky,Permanent Residence - Tata Play recharge,658.95,Expense,PKR,23,10,2017,No
+2017-10-23 09:02:11,Cash,Household,Kirana,,172.5,Expense,PKR,23,10,2017,No
+2017-10-23 11:03:59,Cash,Household,Kitchen,flour mill,93.15,Expense,PKR,23,10,2017,No
+2017-10-23 18:54:46,Cash,Household,Toiletries,Dettol liquid handwash refill,341.55,Expense,PKR,23,10,2017,No
+2017-10-23 18:57:11,Cash,Festivals,Diwali,Aakash kandil,690.0,Expense,PKR,23,10,2017,No
+2017-10-23 19:00:08,Cash,Apparel,Footwear,Slippers,759.0,Expense,PKR,23,10,2017,No
+2017-10-23 21:28:37,Cash,Household,Toiletries,Shampoo sachets,31.05,Expense,PKR,23,10,2017,No
+2017-10-24 10:58:47,Cash,Food,snacks,Dahi,34.5,Expense,PKR,24,10,2017,No
+2017-10-24 18:27:42,Saving Bank account 1,subscription,Mobile Service Provider,Mobile Service Provider freedom pack,1021.2,Expense,PKR,24,10,2017,No
+2017-10-25 21:51:03,Saving Bank account 1,Petty cash,,From Family,10350.0,Income,PKR,25,10,2017,No
+2017-10-26 13:01:57,Cash,Festivals,Diwali,Offering,1725.0,Expense,PKR,26,10,2017,No
+2017-10-26 16:34:04,Cash,Festivals,Diwali,Offering,34.5,Expense,PKR,26,10,2017,No
+2017-10-26 19:23:26,Cash,Festivals,Diwali,Offering,172.5,Expense,PKR,26,10,2017,No
+2017-10-26 19:24:35,Cash,Transportation,auto,within city,172.5,Expense,PKR,26,10,2017,No
+2017-10-27 12:55:49,Cash,Transportation,auto,Permanent Residence to bus stand,138.0,Expense,PKR,27,10,2017,No
+2017-10-29 21:54:53,Credit Card,subscription,Hotstar,subscription 1yr,2744.4405,Expense,PKR,29,10,2017,No
+2017-10-29 22:24:14,Credit Card,subscription,Mobile Service Provider,Mobile Service Provider freedom pack,1021.2,Expense,PKR,29,10,2017,No
+2017-10-29 22:56:05,Saving Bank account 1,subscription,Mobile Service Provider,Mobile Service Provider freedom pack,1021.2,Expense,PKR,29,10,2017,No
+2017-11-13 20:16:48,Saving Bank account 1,Food,Grocery,Shev bhaji sev pav kg,207.0,Expense,PKR,13,11,2017,No
+2017-11-13 20:17:00,Credit Card,Household,Kirana,Maggie + lizol,924.6,Expense,PKR,13,11,2017,No
+2017-11-13 20:17:37,Saving Bank account 1,Food,Grocery,onion 1 kg + half kg potato,172.5,Expense,PKR,13,11,2017,No
+2017-11-13 20:18:06,Saving Bank account 1,Food,Milk,milk 1lit varna,241.5,Expense,PKR,13,11,2017,No
+2017-11-13 20:18:43,Saving Bank account 1,Household,Kirana,Pani Puri packet + Bundi + chivda,621.0,Expense,PKR,13,11,2017,No
+2017-11-14 20:19:17,Saving Bank account 1,Food,Grocery,vegetables,552.0,Expense,PKR,14,11,2017,No
+2017-11-14 22:08:41,Cash,Family,Pocket money,,2656.5,Expense,PKR,14,11,2017,No
+2017-11-14 22:09:11,Cash,Food,fruits,,431.25,Expense,PKR,14,11,2017,No
+2017-11-15 20:43:38,Credit Card,Household,Kirana,Amul butter 52 + Good Day biscuits 43,327.75,Expense,PKR,15,11,2017,No
+2017-11-15 20:46:03,Saving Bank account 1,Food,Bread,brown bread,86.25,Expense,PKR,15,11,2017,No
+2017-11-15 20:46:34,Saving Bank account 1,Education,Stationary,Photo paper print,155.25,Expense,PKR,15,11,2017,No
+2017-11-15 20:47:14,Saving Bank account 1,Household,Kirana,Toast 55 + Kisan Jam 85 + all out 75,721.0500000000001,Expense,PKR,15,11,2017,No
+2017-11-15 20:48:26,Credit Card,Food,Dinner,Home Food Delivery,1807.8,Expense,PKR,15,11,2017,No
+2017-11-16 05:55:14,Saving Bank account 1,Food,Milk,1 lit ,241.5,Expense,PKR,16,11,2017,No
+2017-11-17 13:37:44,Saving Bank account 1,Food,flour mill,4 kg Gehu,96.6,Expense,PKR,17,11,2017,No
+2017-11-17 22:25:48,Saving Bank account 1,Household,Kirana,Agarbatti 55 + dahi 25,276.0,Expense,PKR,17,11,2017,No
+2017-11-17 22:26:31,Saving Bank account 1,Food,Ice cream,Vanila family pack,362.25,Expense,PKR,17,11,2017,No
+2017-11-18 08:04:11,Saving Bank account 1,Food,Milk,1.5 lit milk ,358.8,Expense,PKR,18,11,2017,No
+2017-11-18 11:06:13,Saving Bank account 1,Self-development,,Marathon,3277.5,Expense,PKR,18,11,2017,No
+2017-11-18 15:03:07,Saving Bank account 1,subscription,Mahanagar Gas,,507.15,Expense,PKR,18,11,2017,No
+2017-11-18 20:32:08,Saving Bank account 1,Food,Eggs,6 eggs,134.55,Expense,PKR,18,11,2017,No
+2017-11-18 22:20:50,Credit Card,Household,Kirana,Khobra + shengdana+ vim bar,834.9000000000001,Expense,PKR,18,11,2017,No
+2017-11-19 13:58:30,Credit Card,Culture,Movie,2 PVR Place 6,1504.2,Expense,PKR,19,11,2017,No
+2017-11-19 20:22:19,Cash,Transportation,auto,2 Current Residence to Place 0,103.5,Expense,PKR,19,11,2017,No
+2017-11-19 20:22:43,Cash,Transportation,Train,2 Place 0 to Place 6 return,69.0,Expense,PKR,19,11,2017,No
+2017-11-19 20:23:06,Cash,Transportation,auto,2 Place 0 to Current Residence,103.5,Expense,PKR,19,11,2017,No
+2017-11-19 20:23:22,Saving Bank account 1,Food,snacks,1 Panipuri,69.0,Expense,PKR,19,11,2017,No
+2017-11-20 18:39:05,Cash,scrap,,,690.0,Income,PKR,20,11,2017,No
+2017-11-20 18:39:39,Saving Bank account 1,Food,Milk,milk 1lit ,241.5,Expense,PKR,20,11,2017,No
+2017-11-23 06:16:26,Saving Bank account 1,Food,Milk,1 lit ,238.05,Expense,PKR,23,11,2017,No
+2017-11-23 12:22:39,Cash,Food,Bread,Flatbread 8 pcs,79.35000000000001,Expense,PKR,23,11,2017,No
+2017-11-23 12:22:39,Cash,Food,flour mill,3 kg Bajari,72.45,Expense,PKR,23,11,2017,No
+2017-11-23 12:22:39,Cash,Food,Grocery,Dahi + remaining balance,58.650000000000006,Expense,PKR,23,11,2017,No
+2017-11-24 12:22:39,Credit Card,Culture,Movie,2 PVR Place 6,1083.3,Expense,PKR,24,11,2017,No
+2017-11-25 08:35:44,Cash,Food,vegetables,Half kg tomato,34.5,Expense,PKR,25,11,2017,No
+2017-11-25 09:29:08,Cash,Apparel,Laundry,clothes ironing : Rs 6 per item,310.5,Expense,PKR,25,11,2017,No
+2017-11-25 09:29:45,Saving Bank account 1,Food,Milk,1 lit ,238.05,Expense,PKR,25,11,2017,No
+2017-11-25 10:25:57,Credit Card,subscription,Tata Sky,Permanent Residence - Tata Play recharge,538.2,Expense,PKR,25,11,2017,No
+2017-11-26 16:59:29,Cash,Transportation,Train,1 Place 0 to Place 6 return,34.5,Expense,PKR,26,11,2017,No
+2017-11-26 17:25:47,Saving Bank account 1,Health,Hospital,"Routine checkup - eye institute, Place 6",1380.0,Expense,PKR,26,11,2017,No
+2017-11-26 17:29:44,Cash,Transportation,auto,Place 6 station to eye institute,138.0,Expense,PKR,26,11,2017,No
+2017-11-26 20:30:12,Credit Card,Health,Medicine,eye drop,548.5500000000001,Expense,PKR,26,11,2017,No
+2017-11-26 20:30:45,Cash,Transportation,auto,eye institute to Place 6 station,138.0,Expense,PKR,26,11,2017,No
+2017-11-26 22:26:15,Saving Bank account 1,Gpay Reward,,,27.6,Income,PKR,26,11,2017,No
+2017-11-27 13:38:20,Credit Card,Apparel,Footwear,Sandals Hush puppies,9311.55,Expense,PKR,27,11,2017,No
+2017-11-27 13:38:55,Cash,Transportation,Train,1 Place 0 to Place 6,17.25,Expense,PKR,27,11,2017,No
+2017-11-27 13:39:29,Cash,Transportation,auto,Place 6 station to  mall,103.5,Expense,PKR,27,11,2017,No
+2017-11-27 16:07:30,Cash,Transportation,auto,2 Place 0 to Current Residence,103.5,Expense,PKR,27,11,2017,No
+2017-11-27 21:05:37,Saving Bank account 1,Gpay Reward,,,24.15,Income,PKR,27,11,2017,No
+2017-11-27 21:05:52,Saving Bank account 1,Health,Health,Glasses advance,3450.0,Expense,PKR,27,11,2017,No
+2017-11-28 08:30:27,Saving Bank account 1,Food,Milk,1 lit ,238.05,Expense,PKR,28,11,2017,No
+2017-11-28 17:35:35,Credit Card,Household,Kirana,Toast+ biscuits,396.75,Expense,PKR,28,11,2017,No
+2017-11-28 17:35:35,Saving Bank account 1,Food,Bread,Sweet bread cake pav kg,310.5,Expense,PKR,28,11,2017,No
+2017-11-28 17:35:35,Saving Bank account 1,Food,vegetables,,483.0,Expense,PKR,28,11,2017,No
+2017-11-28 17:35:35,Saving Bank account 1,Food,Bread,,62.1,Expense,PKR,28,11,2017,No
+2017-11-28 17:35:35,Saving Bank account 1,Food,Eggs,6 eggs,144.9,Expense,PKR,28,11,2017,No
+2017-11-30 08:15:06,Saving Bank account 1,Salary,,From workplace ,222994.2,Income,PKR,30,11,2017,Yes
+2017-11-30 08:55:08,Cash,Family,Pocket money,Change,172.5,Expense,PKR,30,11,2017,No
+2017-11-30 16:17:01,Saving Bank account 1,Saving Bank account 2,,,266.7885,Transfer-Out,PKR,30,11,2017,No
+2017-11-30 16:56:20,Saving Bank account 1,Money transfer,Home,,34500.0,Expense,PKR,30,11,2017,Yes
+2017-11-30 20:20:53,Credit Card,Health,Health,Family's Glasses,78315.0,Expense,PKR,30,11,2017,Yes
+2017-11-30 20:20:53,Saving Bank account 1,Health,Health,Glasses remaining,2760.0,Expense,PKR,30,11,2017,No
+2017-11-30 20:20:53,Saving Bank account 1,Health,Medicine,5 Meftal spas,75.9,Expense,PKR,30,11,2017,No
+2017-12-13 07:31:27,Saving Bank account 1,Food,Milk,milk 1lit ,238.05,Expense,PKR,13,12,2017,No
+2017-12-13 17:42:27,Cash,Family,Pocket money,,69.0,Expense,PKR,13,12,2017,No
+2017-12-13 22:00:09,Cash,Apparel,Laundry,clothes ironing,338.1,Expense,PKR,13,12,2017,No
+2017-12-14 20:17:25,Cash,Food,Grocery,Paneer + 1 kg onion,500.25,Expense,PKR,14,12,2017,No
+2017-12-14 20:17:25,Saving Bank account 1,Petty cash,,From Family,10350.0,Income,PKR,14,12,2017,No
+2017-12-15 07:24:31,Cash,Food,Ice cream,chocobar,51.75,Expense,PKR,15,12,2017,No
+2017-12-15 07:24:31,Cash,Other,,Nosebud,34.5,Expense,PKR,15,12,2017,No
+2017-12-16 07:24:10,Saving Bank account 1,Food,Milk,milk 1lit ,238.05,Expense,PKR,16,12,2017,No
+2017-12-17 16:28:24,Cash,Transportation,auto,Current Residence to Place 0,51.75,Expense,PKR,17,12,2017,No
+2017-12-17 16:28:43,Cash,Transportation,Train,Place 0 to Place 4 return,69.0,Expense,PKR,17,12,2017,No
+2017-12-17 17:48:57,Cash,Transportation,auto,college to inorbit,86.25,Expense,PKR,17,12,2017,No
+2017-12-17 17:49:59,Cash,Food,Tea,2 cutting chai,69.0,Expense,PKR,17,12,2017,No
+2017-12-17 22:26:42,Credit Card,Household,Kirana,Dmart,3029.1000000000004,Expense,PKR,17,12,2017,No
+2017-12-17 22:27:36,Cash,Transportation,auto,within city,103.5,Expense,PKR,17,12,2017,No
+2017-12-17 22:28:06,Credit Card,Food,Dinner,At restaurant,1742.25,Expense,PKR,17,12,2017,No
+2017-12-18 06:00:09,Credit Card,Apparel,Clothing,undergarment single,1076.4,Expense,PKR,18,12,2017,No
+2017-12-19 06:38:08,Saving Bank account 1,Food,Milk,milk 1lit ,238.05,Expense,PKR,19,12,2017,No
+2017-12-19 17:53:14,Share Market Trading,Saving Bank account 1,,Fund Withdrawal,375.912,Transfer-Out,PKR,19,12,2017,No
+2017-12-19 17:53:27,Cash,Transportation,Train,Place 0 to WS return,34.5,Expense,PKR,19,12,2017,No
+2017-12-19 18:57:13,Cash,Food,snacks,Chicken Frankie,155.25,Expense,PKR,19,12,2017,No
+2017-12-19 20:25:07,Cash,Family,Pocket money,,1725.0,Expense,PKR,19,12,2017,No
+2017-12-19 20:59:27,Saving Bank account 1,Gpay Reward,,,20.700000000000003,Income,PKR,19,12,2017,No
+2017-12-20 10:31:16,Credit Card,subscription,Edtech Course,Renewal,97980.0,Expense,PKR,20,12,2017,Yes
+2017-12-20 10:31:16,Cash,Food,Lunch,Catering Service,327.75,Expense,PKR,20,12,2017,No
+2017-12-21 14:34:05,Cash,Food,Milk,milk 1lit ,241.5,Expense,PKR,21,12,2017,No
+2017-12-21 14:34:40,Cash,Food,Lunch,Catering Service,224.25,Expense,PKR,21,12,2017,No
+2017-12-21 20:45:11,Saving Bank account 1,Food,snacks,Vadapav,51.75,Expense,PKR,21,12,2017,No
+2017-12-21 20:45:25,Cash,Household,Kirana,Surti kolam 2kg (54rsx2)+Monaco biscuits,407.1,Expense,PKR,21,12,2017,No
+2017-12-22 14:42:54,Saving Bank account 1,Food,Lunch,Home Food Delivery,1311.0,Expense,PKR,22,12,2017,No
+2017-12-23 11:06:42,Credit Card,Gift,,Birthday gift,2753.1000000000004,Expense,PKR,23,12,2017,No
+2017-12-24 08:06:55,Saving Bank account 1,Food,Milk,Half lit  milk,120.75,Expense,PKR,24,12,2017,No
+2017-12-24 19:27:42,Cash,Household,Toiletries,Toothbrush (buy 2 get 1),345.0,Expense,PKR,24,12,2017,No
+2017-12-24 19:28:11,Cash,Food,snacks,Gupta bhel,86.25,Expense,PKR,24,12,2017,No
+2017-12-24 19:28:25,Credit Card,Gift,,Birthday gift,4705.8,Expense,PKR,24,12,2017,No
+2017-12-24 21:24:36,Saving Bank account 1,Transportation,auto,2 Current Residence to Place 0,103.5,Expense,PKR,24,12,2017,No
+2017-12-25 05:48:15,Cash,Transportation,auto,Place 2 station to Permanent Residence,276.0,Expense,PKR,25,12,2017,No
+2017-12-25 11:53:26,Saving Bank account 1,subscription,Mobile Service Provider,Data booster pack,624.45,Expense,PKR,25,12,2017,No
+2017-12-25 17:43:26,Credit Card,subscription,Tata Sky,Permanent Residence - Tata Play recharge,538.2,Expense,PKR,25,12,2017,No
+2017-12-26 19:35:40,Credit Card,subscription,Newspaper,"ET Prime (1+1) till 24 Dec,2024",6034.05,Expense,PKR,26,12,2017,No
+2017-12-26 21:50:33,Fixed Deposit,Saving Bank account 1,,,517500.0,Transfer-Out,PKR,26,12,2017,Yes
+2017-12-26 21:55:12,Saving Bank account 1,Fixed Deposit,,,862500.0,Transfer-Out,PKR,26,12,2017,Yes
+2017-12-27 18:43:16,Cash,Food,Grocery,Tata salt 28+ 6 eggs 42,241.5,Expense,PKR,27,12,2017,No
+2017-12-28 18:27:52,Cash,Food,vegetables,Ginger,34.5,Expense,PKR,28,12,2017,No
+2017-12-29 13:00:01,Saving Bank account 1,subscription,Mobile Service Provider,Data booster pack,624.45,Expense,PKR,29,12,2017,No
+2017-12-29 18:22:11,Cash,Food,flour mill,,17.25,Expense,PKR,29,12,2017,No
+2017-12-29 18:22:25,Cash,Household,Kirana,,627.9,Expense,PKR,29,12,2017,No
+2017-12-29 18:22:49,Cash,Food,snacks,3 pavwada,103.5,Expense,PKR,29,12,2017,No
+2017-12-29 21:36:07,Saving Bank account 1,Family,misc,For utensils,1552.5,Expense,PKR,29,12,2017,No
+2017-12-30 10:51:45,Cash,Food,vegetables,Dudhi 20 + mirchi 5,86.25,Expense,PKR,30,12,2017,No
+2017-12-31 07:21:05,Saving Bank account 1,Interest,,interest paid,2049.3,Income,PKR,31,12,2017,No
+2017-12-31 08:15:25,Saving Bank account 1,Salary,,From workplace ,222949.35,Income,PKR,31,12,2017,Yes
+2017-12-31 13:25:39,Cash,Food,Bread,Flatbread 24 pcs,103.5,Expense,PKR,31,12,2017,No
+2018-01-13 20:55:55,Saving Bank account 1,Apparel,Laundry,clothes ironing,276.0,Expense,PKR,13,1,2018,No
+2018-01-13 20:57:11,Cash,Health,Medicine,Thyroid Tablets,2553.0,Expense,PKR,13,1,2018,No
+2018-01-14 07:30:30,Cash,Transportation,auto,Current Residence to Place 0,51.75,Expense,PKR,14,1,2018,No
+2018-01-14 10:54:48,Cash,Transportation,auto,mumbai University Kalina to Santacruz station,138.0,Expense,PKR,14,1,2018,No
+2018-01-14 12:21:16,Cash,Transportation,auto,Pali hill to Bandra station,79.35000000000001,Expense,PKR,14,1,2018,No
+2018-01-14 15:21:39,Credit Card,Apparel,Clothing,Head band,686.5500000000001,Expense,PKR,14,1,2018,No
+2018-01-14 15:22:04,Credit Card,Household,Hardware,Vibrating electronic message tool,2753.1000000000004,Expense,PKR,14,1,2018,No
+2018-01-14 15:22:40,Cash,Transportation,auto,Decathlon to station,86.25,Expense,PKR,14,1,2018,No
+2018-01-14 15:22:51,Cash,Transportation,auto,station to Decathlon,69.0,Expense,PKR,14,1,2018,No
+2018-01-14 15:23:43,Cash,Transportation,Train,Place 0 to Santacruz return,138.0,Expense,PKR,14,1,2018,No
+2018-01-15 13:50:29,Saving Bank account 1,Transportation,auto,Uber auto: Place 4 Station to Current Residence society,917.7,Expense,PKR,15,1,2018,No
+2018-01-15 13:51:31,Cash,Transportation,Train,Place 0 to Place 3 returns,138.0,Expense,PKR,15,1,2018,No
+2018-01-15 16:54:35,Cash,Food,Grocery,onion 1 kg + half kg potato,131.1,Expense,PKR,15,1,2018,No
+2018-01-15 16:55:27,Credit Card,Food,Sweets,Chitale Srikhand,979.8,Expense,PKR,15,1,2018,No
+2018-01-16 07:11:55,Credit Card,Social Life,Leisure,Marathon,1028.1,Expense,PKR,16,1,2018,No
+2018-01-16 08:22:48,Saving Bank account 1,Food,Milk,1 lit ,238.05,Expense,PKR,16,1,2018,No
+2018-01-16 09:20:40,Cash,Household,Kirana,Bhagar 1kg 130 + idli pith 1kg 35,569.25,Expense,PKR,16,1,2018,No
+2018-01-18 07:55:00,Saving Bank account 1,Food,Milk,1 lit ,238.05,Expense,PKR,18,1,2018,No
+2018-01-18 07:55:29,Saving Bank account 1,Food,Eggs,6 eggs,144.9,Expense,PKR,18,1,2018,No
+2018-01-18 15:09:12,Credit Card,Food,Lunch,Fresh veggie pizza,755.5500000000001,Expense,PKR,18,1,2018,No
+2018-01-18 21:57:46,Saving Bank account 1,Transportation,Bike,Two Wheeler Bikedelux second installment,172500.0,Expense,PKR,18,1,2018,No
+2018-01-19 22:22:37,Cash,Household,Kirana,Cakes,158.70000000000002,Expense,PKR,19,1,2018,No
+2018-01-19 22:23:35,Cash,Food,Bread,Flatbread 6 pcs,69.0,Expense,PKR,19,1,2018,No
+2018-01-19 22:24:20,Saving Bank account 1,Household,Kirana,Amul butter,182.85,Expense,PKR,19,1,2018,No
+2018-01-19 22:24:42,Saving Bank account 1,Food,Bread,Flatbread 6 pcs,58.650000000000006,Expense,PKR,19,1,2018,No
+2018-01-20 10:18:03,Credit Card,subscription,Tata Sky,Permanent Residence - Tata Play recharge,617.5500000000001,Expense,PKR,20,1,2018,No
+2018-01-20 20:53:20,Saving Bank account 1,Food,Bread,,155.25,Expense,PKR,20,1,2018,No
+2018-01-20 20:53:43,Saving Bank account 1,Food,Biscuits,crack-jack 1 packi,34.5,Expense,PKR,20,1,2018,No
+2018-01-20 23:30:27,Saving Bank account 1,Amazon pay cashback,,,6.9,Income,PKR,20,1,2018,No
+2018-01-21 19:44:43,Credit Card,Food,Dinner,Home Food Delivery,1324.8000000000002,Expense,PKR,21,1,2018,No
+2018-01-22 10:25:11,Saving Bank account 1,Food,Milk,1 lit ,238.05,Expense,PKR,22,1,2018,No
+2018-01-22 10:25:23,Saving Bank account 1,Health,Medicine,Cough-sills 4 pcs + sinarest 3 pcs,103.5,Expense,PKR,22,1,2018,No
+2018-01-22 12:08:08,Cash,Food,flour mill,M D sure 3kg atta,558.9,Expense,PKR,22,1,2018,No
+2018-01-22 19:05:26,Saving Bank account 1,Food,flour mill,2 kg Bajari,48.3,Expense,PKR,22,1,2018,No
+2018-01-23 21:28:59,Credit Card,Household,Kirana,Smart point,941.85,Expense,PKR,23,1,2018,No
+2018-01-24 09:51:12,Cash,Food,Milk,Half lit  milk,120.75,Expense,PKR,24,1,2018,No
+2018-01-24 16:33:41,Share Market Trading,Saving Bank account 1,,,335.13300000000004,Transfer-Out,PKR,24,1,2018,No
+2018-01-25 13:24:57,Cash,Food,Lunch,Catering Service,241.5,Expense,PKR,25,1,2018,No
+2018-01-26 10:03:28,Cash,Household,Kirana,Idli pith 1kg,131.1,Expense,PKR,26,1,2018,No
+2018-01-26 10:03:44,Cash,Food,Potato,potato 1kg,86.25,Expense,PKR,26,1,2018,No
+2018-01-26 10:05:55,Saving Bank account 1,Food,Milk,1 lit ,238.05,Expense,PKR,26,1,2018,No
+2018-01-26 10:06:07,Saving Bank account 1,Food,Rajgira ladu,1 packet,69.0,Expense,PKR,26,1,2018,No
+2018-01-26 12:37:47,Credit Card,Apparel,Clothing,Pyjama (999)+ carry bag (10),3481.05,Expense,PKR,26,1,2018,No
+2018-01-26 12:38:42,Cash,Transportation,Train,Place 0 to Place 4 return,69.0,Expense,PKR,26,1,2018,No
+2018-01-26 14:11:01,Cash,Transportation,auto,Place 0 to Current Residence,51.75,Expense,PKR,26,1,2018,No
+2018-01-27 09:57:14,Saving Bank account 1,Share Market,,,103500.0,Transfer-Out,PKR,27,1,2018,Yes
+2018-01-27 18:15:53,Saving Bank account 1,Transportation,Bike,Two Wheeler Bikedelux third installment,148350.0,Expense,PKR,27,1,2018,Yes
+2018-01-28 19:16:31,Credit Card,Household,Kirana,Supermart,2635.8,Expense,PKR,28,1,2018,No
+2018-01-28 19:24:01,Credit Card,Household,Kirana,Smart point,3370.3050000000003,Expense,PKR,28,1,2018,No
+2018-01-28 19:26:02,Saving Bank account 1,Food,snacks,2 kachori,82.80000000000001,Expense,PKR,28,1,2018,No
+2018-01-29 07:49:22,Saving Bank account 1,Food,Milk,1 lit ,238.05,Expense,PKR,29,1,2018,No
+2018-01-29 07:49:51,Saving Bank account 1,Food,Eggs,6 eggs,144.9,Expense,PKR,29,1,2018,No
+2018-01-29 07:50:07,Saving Bank account 1,Food,Biscuits,Khari packet,155.25,Expense,PKR,29,1,2018,No
+2018-01-30 08:47:37,Cash,Family,Pocket money,,345.0,Expense,PKR,30,1,2018,No
+2018-01-30 15:31:24,Saving Bank account 1,Share Market,,,34500.0,Transfer-Out,PKR,30,1,2018,Yes
+2018-01-30 21:05:19,Saving Bank account 1,Food,Grocery,Dahi 2 packets,69.0,Expense,PKR,30,1,2018,No
+2018-01-30 21:05:31,Saving Bank account 1,Household,Kitchen,Matchbox packet 10pcs,34.5,Expense,PKR,30,1,2018,No
+2018-01-31 07:31:34,Saving Bank account 1,Food,Milk,1 lit ,238.05,Expense,PKR,31,1,2018,No
+2018-01-31 08:21:09,Saving Bank account 1,Salary,,From workplace ,222994.2,Income,PKR,31,1,2018,Yes
+2018-01-31 20:01:53,Saving Bank account 1,Transportation,Bike,Parking sticker,172.5,Expense,PKR,31,1,2018,No
+2018-01-31 22:00:22,Cash,Food,Dinner,At restaurant,1104.0,Expense,PKR,31,1,2018,No
+2018-02-13 06:58:06,Saving Bank account 1,Food,Milk,1 lit ,248.4,Expense,PKR,13,2,2018,No
+2018-02-13 20:22:43,Saving Bank account 1,Food,Grocery,Amul cheese,248.4,Expense,PKR,13,2,2018,No
+2018-02-13 20:23:23,Saving Bank account 1,Food,Bread,Bread,120.75,Expense,PKR,13,2,2018,No
+2018-02-13 20:24:24,Credit Card,Food,Potato,potato 1kg,86.25,Expense,PKR,13,2,2018,No
+2018-02-14 19:12:16,Saving Bank account 1,Food,snacks,1 chicken shawarma,207.0,Expense,PKR,14,2,2018,No
+2018-02-15 19:46:43,Credit Card,Household,Kirana,Supermart,403.65,Expense,PKR,15,2,2018,No
+2018-02-15 19:47:54,Saving Bank account 1,Food,Grocery,Half kg tomato + methi 1 judi,103.5,Expense,PKR,15,2,2018,No
+2018-02-15 19:48:20,Saving Bank account 1,Food,Ice cream,chocobar,120.75,Expense,PKR,15,2,2018,No
+2018-02-16 08:41:33,Saving Bank account 1,Food,Milk,1 lit ,248.4,Expense,PKR,16,2,2018,No
+2018-02-16 08:41:51,Saving Bank account 1,Food,Biscuits,Khari packet,155.25,Expense,PKR,16,2,2018,No
+2018-02-16 08:44:18,Saving Bank account 1,Food,snacks,banana chips,155.25,Expense,PKR,16,2,2018,No
+2018-02-17 19:26:45,Cash,Food,Lunch,5 chapati,103.5,Expense,PKR,17,2,2018,No
+2018-02-17 19:27:16,Cash,Transportation,Bike,Mall parking,69.0,Expense,PKR,17,2,2018,No
+2018-02-17 23:10:32,Credit Card,Family,clothes,,12413.1,Expense,PKR,17,2,2018,No
+2018-02-17 23:12:28,Credit Card,Food,Dinner,BBQ,6151.35,Expense,PKR,17,2,2018,No
+2018-02-19 09:47:14,Saving Bank account 1,Food,snacks,2 kachori,82.80000000000001,Expense,PKR,19,2,2018,No
+2018-02-19 09:47:24,Saving Bank account 1,Food,Milk,1 lit ,248.4,Expense,PKR,19,2,2018,No
+2018-02-19 22:15:12,Saving Bank account 1,Petty cash,,From Family,586.5,Income,PKR,19,2,2018,No
+2018-02-19 22:15:12,Saving Bank account 1,Beauty,grooming,hair cut+shaving,586.5,Expense,PKR,19,2,2018,No
+2018-02-20 21:42:59,Saving Bank account 1,Household,Appliances,Kitchen fan + installation+ repair,8970.0,Expense,PKR,20,2,2018,No
+2018-02-22 19:19:32,Saving Bank account 1,Food,Lunch,Catering Service,662.4000000000001,Expense,PKR,22,2,2018,No
+2018-02-22 20:38:20,Saving Bank account 1,Food,Onions,onion 1 kg,69.0,Expense,PKR,22,2,2018,No
+2018-02-22 20:39:03,Saving Bank account 1,Food,beverage,Limca,69.0,Expense,PKR,22,2,2018,No
+2018-02-22 23:45:17,Saving Bank account 1,subscription,Tata Sky,Permanent Residence - Tata Play recharge,541.65,Expense,PKR,22,2,2018,No
+2018-02-23 06:59:56,Saving Bank account 1,Food,Milk,1 lit ,248.4,Expense,PKR,23,2,2018,No
+2018-02-23 07:02:54,Saving Bank account 1,Food,Rajgira ladu,1 packet,69.0,Expense,PKR,23,2,2018,No
+2018-02-23 22:34:02,Cash,Health,Medicine,Refresh Tears Drop,441.6,Expense,PKR,23,2,2018,No
+2018-02-24 20:02:05,Saving Bank account 1,Food,Bread,Flatbread 12 pcs,138.0,Expense,PKR,24,2,2018,No
+2018-02-26 12:41:33,Saving Bank account 1,Food,beverage,chaas,58.650000000000006,Expense,PKR,26,2,2018,No
+2018-02-26 18:25:59,Credit Card,Transportation,Bike,First servicing,1528.35,Expense,PKR,26,2,2018,No
+2018-02-26 19:32:22,Saving Bank account 1,Household,Toiletries,Mirror repair,483.0,Expense,PKR,26,2,2018,No
+2018-02-26 22:48:53,Saving Bank account 1,Food,Milk,1 lit ,251.85,Expense,PKR,26,2,2018,No
+2018-02-27 13:21:31,Cash,Food,Lunch,5 chapati,103.5,Expense,PKR,27,2,2018,No
+2018-02-27 19:44:34,Credit Card,Household,Kirana,Idli pith 1kg,131.1,Expense,PKR,27,2,2018,No
+2018-02-28 14:52:04,Saving Bank account 1,Salary,,From workplace ,222718.2,Income,PKR,28,2,2018,Yes
+2018-02-28 20:29:59,Credit Card,Food,Potato,potato 1kg,62.1,Expense,PKR,28,2,2018,No
+2018-02-28 20:31:10,Credit Card,Food,Onions,onion 1 kg,103.5,Expense,PKR,28,2,2018,No
+2018-02-28 20:31:38,Saving Bank account 1,Food,Milk,Half lit Varna milk,124.2,Expense,PKR,28,2,2018,No
+2018-02-28 20:32:55,Saving Bank account 1,Food,Biscuits,Khari packet,155.25,Expense,PKR,28,2,2018,No
+2018-03-13 09:27:56,Saving Bank account 1,Food,Milk,Half lit  milk,124.2,Expense,PKR,13,3,2018,No
+2018-03-13 12:39:40,Cash,Family,Pocket money,,1656.0,Expense,PKR,13,3,2018,No
+2018-03-14 06:03:35,Share Market Trading,Saving Bank account 1,,Unused funds,147.936,Transfer-Out,PKR,14,3,2018,No
+2018-03-14 06:04:18,Credit Card,Food,Dinner,Domino's Pizza,1994.1,Expense,PKR,14,3,2018,No
+2018-03-14 21:38:13,Cash,Food,Onions,onion 2 kg,138.0,Expense,PKR,14,3,2018,No
+2018-03-14 21:39:40,Cash,Household,Kirana,Mayonnaise + cheese cubes,483.0,Expense,PKR,14,3,2018,No
+2018-03-15 16:27:45,Saving Bank account 1,Food,Milk,Half lit  milk,124.2,Expense,PKR,15,3,2018,No
+2018-03-15 16:27:45,Cash,Food,Lunch,Catering Service,207.0,Expense,PKR,15,3,2018,No
+2018-03-17 13:13:18,Saving Bank account 1,Food,Milk,Half lit  milk,127.65,Expense,PKR,17,3,2018,No
+2018-03-17 22:50:45,Cash,Food,Lunch,Catering Service,103.5,Expense,PKR,17,3,2018,No
+2018-03-18 16:16:21,Cash,Transportation,Train,Place 0 to Place 4 return,69.0,Expense,PKR,18,3,2018,No
+2018-03-18 17:16:09,Cash,Food,Tea,cutting chai,34.5,Expense,PKR,18,3,2018,No
+2018-03-18 17:16:27,Cash,Food,snacks,1 Panipuri,103.5,Expense,PKR,18,3,2018,No
+2018-03-18 17:16:44,Cash,Food,snacks,Papad packet,172.5,Expense,PKR,18,3,2018,No
+2018-03-18 18:41:33,Credit Card,Family,clothes,Belt + bow,1718.1,Expense,PKR,18,3,2018,No
+2018-03-18 18:47:54,Credit Card,Family,clothes,Trouser,2756.55,Expense,PKR,18,3,2018,No
+2018-03-18 18:57:34,Cash,Food,snacks,Dabeli,51.75,Expense,PKR,18,3,2018,No
+2018-03-18 20:40:33,Cash,Transportation,Bike,Station Parking,34.5,Expense,PKR,18,3,2018,No
+2018-03-20 16:15:16,Cash,Food,Milk,Half lit  milk,124.2,Expense,PKR,20,3,2018,No
+2018-03-20 16:15:41,Cash,Food,Eggs,6 eggs,124.2,Expense,PKR,20,3,2018,No
+2018-03-20 16:15:59,Cash,Food,breakfast,Bread,62.1,Expense,PKR,20,3,2018,No
+2018-03-20 16:26:08,Credit Card,Food,snacks,Chicken lollypop 8 pcs,744.3375000000001,Expense,PKR,20,3,2018,No
+2018-03-20 16:30:07,Saving Bank account 2,Other,,,58.650000000000006,Expense,PKR,20,3,2018,No
+2018-03-20 20:13:08,Credit Card,Food,Dinner,2 Fried rice,848.7,Expense,PKR,20,3,2018,No
+2018-03-21 17:26:41,Cash,Family,Pocket money,,172.5,Expense,PKR,21,3,2018,No
+2018-03-21 18:41:45,Credit Card,Household,Kirana,Idli pith 1kg,131.1,Expense,PKR,21,3,2018,No
+2018-03-21 23:13:13,Saving Bank account 1,Food,snacks,2 kachori,82.80000000000001,Expense,PKR,21,3,2018,No
+2018-03-22 12:47:34,Cash,Food,Milk,milk 1lit ,248.4,Expense,PKR,22,3,2018,No
+2018-03-22 12:50:18,Cash,Food,Rajgira ladu,1 packet,69.0,Expense,PKR,22,3,2018,No
+2018-03-22 19:31:16,Cash,Food,snacks,Potato chips,517.5,Expense,PKR,22,3,2018,No
+2018-03-22 19:31:37,Saving Bank account 1,Food,snacks,Pickle,517.5,Expense,PKR,22,3,2018,No
+2018-03-22 20:13:48,Saving Bank account 1,Household,Kirana,Supermart,527.85,Expense,PKR,22,3,2018,No
+2018-03-22 22:30:20,Cash,Food,vegetables,Half kg tomato,51.75,Expense,PKR,22,3,2018,No
+2018-03-22 22:30:49,Saving Bank account 1,Food,flour mill,1 kg Bajari,24.15,Expense,PKR,22,3,2018,No
+2018-03-23 19:48:39,Cash,Culture,Books,Finding next Job,345.0,Expense,PKR,23,3,2018,No
+2018-03-25 21:12:00,Credit Card,Food,Tea,IKEA tea 3,828.0,Expense,PKR,25,3,2018,No
+2018-03-25 21:12:38,Credit Card,Food,snacks,French crossiant,276.0,Expense,PKR,25,3,2018,No
+2018-03-25 21:13:19,Cash,Food,snacks,2 Frankie,552.0,Expense,PKR,25,3,2018,No
+2018-03-25 21:13:44,Cash,Food,Tea,2 tea,69.0,Expense,PKR,25,3,2018,No
+2018-03-25 21:14:08,Cash,Food,snacks,Popcorn family pack,86.25,Expense,PKR,25,3,2018,No
+2018-03-25 21:14:42,Cash,Transportation,Bike,Station Parking,34.5,Expense,PKR,25,3,2018,No
+2018-03-25 22:20:31,Saving Bank account 1,Dividend earned on Shares,,Marico Stocks,139.725,Income,PKR,25,3,2018,No
+2018-03-26 09:55:55,Credit Card,subscription,Tata Sky,Permanent Residence - Tata Play recharge,541.65,Expense,PKR,26,3,2018,No
+2018-03-26 13:05:30,Saving Bank account 1,Food,Milk,milk 1lit ,248.4,Expense,PKR,26,3,2018,No
+2018-03-27 19:58:24,Cash,Food,breakfast,Bread,120.75,Expense,PKR,27,3,2018,No
+2018-03-29 20:10:25,Credit Card,Food,Dinner,At restaurant,4257.3,Expense,PKR,29,3,2018,No
+2018-03-30 11:27:33,Cash,Food,Milk,milk 1lit ,248.4,Expense,PKR,30,3,2018,No
+2018-03-30 11:27:41,Cash,Food,vegetables,Ginger + green chilli,69.0,Expense,PKR,30,3,2018,No
+2018-03-30 20:10:12,Cash,Food,snacks,1 Panipuri,86.25,Expense,PKR,30,3,2018,No
+2018-03-31 07:26:26,Cash,Transportation,Train,Place 0 to Sion returns,103.5,Expense,PKR,31,3,2018,No
+2018-03-31 07:36:40,Saving Bank account 1,Interest,,interest paid,2032.05,Income,PKR,31,3,2018,No
+2018-03-31 11:32:03,Saving Bank account 1,Transportation,Bike,Station Parking,34.5,Expense,PKR,31,3,2018,No
+2018-03-31 13:20:18,Credit Card,Food,Lunch,Domino's Pizza,1445.5500000000002,Expense,PKR,31,3,2018,No
+2018-03-31 14:48:02,Saving Bank account 1,Salary,,From workplace ,222994.2,Income,PKR,31,3,2018,Yes
+2018-03-31 19:45:07,Credit Card,Food,Dinner,Home Food Delivery,841.8000000000001,Expense,PKR,31,3,2018,No
+2018-03-31 21:39:12,Saving Bank account 1,Food,Ice cream,2 chocobar,155.25,Expense,PKR,31,3,2018,No
+2018-04-13 20:34:03,Cash,Health,Lab Tests,Family Thyroid Test + CBC,2415.0,Expense,PKR,13,4,2018,No
+2018-04-14 06:31:14,Saving Bank account 1,Food,Milk,milk 1lit ,248.4,Expense,PKR,14,4,2018,No
+2018-04-14 06:31:35,Saving Bank account 1,Food,Biscuits,Khari packet,155.25,Expense,PKR,14,4,2018,No
+2018-04-14 22:24:43,Saving Bank account 1,Food,Grocery,Pizza base packet 2,138.0,Expense,PKR,14,4,2018,No
+2018-04-14 22:27:04,Saving Bank account 1,Household,Kirana,Supermart,369.15,Expense,PKR,14,4,2018,No
+2018-04-15 14:38:43,Cash,Food,Lunch,Catering Service,241.5,Expense,PKR,15,4,2018,No
+2018-04-15 14:39:37,Cash,Transportation,Train,Place 0 to Place 4 return,69.0,Expense,PKR,15,4,2018,No
+2018-04-15 14:40:08,Cash,Transportation,Bike,Station Parking,34.5,Expense,PKR,15,4,2018,No
+2018-04-15 14:40:22,Credit Card,Family,makeup,Body mist,1811.25,Expense,PKR,15,4,2018,No
+2018-04-15 19:06:45,Credit Card,Household,Kitchen,"Vessels for sugar, coffee and tea",2756.55,Expense,PKR,15,4,2018,No
+2018-04-15 19:07:30,Cash,Food,Tea,2 cutting chai,69.0,Expense,PKR,15,4,2018,No
+2018-04-15 19:07:49,Cash,Food,snacks,pav Bhaji,241.5,Expense,PKR,15,4,2018,No
+2018-04-16 18:26:06,Credit Card,Household,Kirana,Smart point,1552.5,Expense,PKR,16,4,2018,No
+2018-04-16 18:26:44,Saving Bank account 1,Household,Kirana,Supermart,914.25,Expense,PKR,16,4,2018,No
+2018-04-16 20:55:46,Saving Bank account 1,Household,Kirana,Cockroach injection,931.5,Expense,PKR,16,4,2018,No
+2018-04-16 20:58:57,Saving Bank account 1,Apparel,Laundry,clothes ironing,217.35,Expense,PKR,16,4,2018,No
+2018-04-16 22:40:53,Saving Bank account 1,Education,Stationary,3 Pens,72.45,Expense,PKR,16,4,2018,No
+2018-04-17 09:04:44,Cash,Food,Milk,milk 1lit ,248.4,Expense,PKR,17,4,2018,No
+2018-04-19 09:54:53,Saving Bank account 1,Food,Milk,milk 1lit ,248.4,Expense,PKR,19,4,2018,No
+2018-04-19 09:55:08,Saving Bank account 1,Food,Eggs,6 eggs,124.2,Expense,PKR,19,4,2018,No
+2018-04-19 20:13:20,Cash,Household,Kitchen,flour mill,48.3,Expense,PKR,19,4,2018,No
+2018-04-20 20:39:57,Saving Bank account 1,Food,Dinner,Sugaran Kitchen,241.5,Expense,PKR,20,4,2018,No
+2018-04-21 21:15:07,Cash,Food,curd,Dahi 2 packets,69.0,Expense,PKR,21,4,2018,No
+2018-04-21 23:15:33,Cash,Food,Ice cream,Naturals,552.0,Expense,PKR,21,4,2018,No
+2018-04-22 12:35:28,Saving Bank account 1,Food,Milk,milk 1lit ,248.4,Expense,PKR,22,4,2018,No
+2018-04-22 12:35:39,Cash,Household,Kirana,Supermart,655.5,Expense,PKR,22,4,2018,No
+2018-04-22 21:03:30,Cash,Food,vegetables,,34.5,Expense,PKR,22,4,2018,No
+2018-04-23 15:22:30,Cash,maid,,,1725.0,Expense,PKR,23,4,2018,No
+2018-04-23 18:21:36,Saving Bank account 1,Household,Kirana,Idli pith 1kg,131.1,Expense,PKR,23,4,2018,No
+2018-04-24 22:24:28,Credit Card,subscription,Tata Sky,Permanent Residence - Tata Play recharge,541.65,Expense,PKR,24,4,2018,No
+2018-04-25 18:28:39,Cash,Food,Lunch,Catering Service,241.5,Expense,PKR,25,4,2018,No
+2018-04-26 11:30:19,Cash,Family,Pocket money,,3450.0,Expense,PKR,26,4,2018,No
+2018-04-26 20:44:20,Cash,Food,snacks,Noodles packet,103.5,Expense,PKR,26,4,2018,No
+2018-04-26 20:44:50,Saving Bank account 1,Food,Milk,milk 1lit ,248.4,Expense,PKR,26,4,2018,No
+2018-04-27 18:30:51,Cash,Household,Kirana,Supermart,1017.75,Expense,PKR,27,4,2018,No
+2018-04-28 10:04:35,Cash,Family,Pocket money,,1725.0,Expense,PKR,28,4,2018,No
+2018-04-28 21:03:59,Credit Card,Food,Dinner,Home Food Delivery,1424.85,Expense,PKR,28,4,2018,No
+2018-04-29 09:36:56,Saving Bank account 1,Salary,,From workplace ,224712.3,Income,PKR,29,4,2018,Yes
+2018-04-29 18:28:10,Saving Bank account 1,Food,beverage,2 sugarcane juice,138.0,Expense,PKR,29,4,2018,No
+2018-04-30 06:32:57,Cash,Gift,,To Family,1725.0,Expense,PKR,30,4,2018,No
+2018-04-30 09:48:07,Cash,Food,Milk,milk 1lit ,248.4,Expense,PKR,30,4,2018,No
+2018-04-30 09:48:34,Cash,Food,Biscuits,Toast packet,155.25,Expense,PKR,30,4,2018,No
+2018-04-30 09:56:14,Credit Card,subscription,Tata Sky,Current Residence - Tata Play recharge,607.2,Expense,PKR,30,4,2018,No
+2018-04-30 18:25:08,Cash,Household,Kirana,Supermart,569.25,Expense,PKR,30,4,2018,No
+2018-04-30 18:25:28,Cash,Food,snacks,6 kachori,248.4,Expense,PKR,30,4,2018,No
+2018-05-13 00:06:05,Cash,scrap,,,69.0,Income,PKR,13,5,2018,No
+2018-05-13 20:16:54,Cash,Education,Stationary,Gel pen Refills,41.400000000000006,Expense,PKR,13,5,2018,No
+2018-05-13 20:18:01,Cash,Apparel,Laundry,clothes ironing,265.65000000000003,Expense,PKR,13,5,2018,No
+2018-05-14 09:47:13,Cash,Transportation,auto,2 Current Residence to Place 0,138.0,Expense,PKR,14,5,2018,No
+2018-05-14 09:47:57,Cash,Transportation,Train,2 Place 0 to Place 3,138.0,Expense,PKR,14,5,2018,No
+2018-05-14 12:55:41,Saving Bank account 1,Food,fruits,2 dozens mango + 1kg litchi,4312.5,Expense,PKR,14,5,2018,No
+2018-05-14 18:01:15,Cash,Food,snacks,Potato chips,51.75,Expense,PKR,14,5,2018,No
+2018-05-14 22:49:07,Cash,Transportation,auto,Place 2 station to Permanent Residence,172.5,Expense,PKR,14,5,2018,No
+2018-05-14 22:49:32,Cash,Other,,Digilock room charges,138.0,Expense,PKR,14,5,2018,No
+2018-05-14 23:08:45,Saving Bank account 1,subscription,Mobile Service Provider,Data booster pack,1038.45,Expense,PKR,14,5,2018,No
+2018-05-14 23:09:55,Saving Bank account 1,Amazon pay cashback,,,72.45,Income,PKR,14,5,2018,No
+2018-05-15 18:43:55,Cash,Transportation,auto,Permanent Residence to GH road,172.5,Expense,PKR,15,5,2018,No
+2018-05-15 20:10:10,Saving Bank account 1,Household,Appliances,LG Washing Machine,74175.0,Expense,PKR,15,5,2018,Yes
+2018-05-15 20:11:12,Cash,Transportation,auto,within city,103.5,Expense,PKR,15,5,2018,No
+2018-05-15 20:11:58,Saving Bank account 1,Food,Ice cream,Cookies & cream family pack,465.75,Expense,PKR,15,5,2018,No
+2018-05-18 15:35:49,Saving Bank account 1,subscription,Mobile Service Provider,Data booster pack,1038.45,Expense,PKR,18,5,2018,No
+2018-05-19 15:17:18,Saving Bank account 1,subscription,Mobile Service Provider,Data booster pack,51.75,Expense,PKR,19,5,2018,No
+2018-05-19 19:26:19,Cash,Household,Kitchen,flour mill,86.25,Expense,PKR,19,5,2018,No
+2018-05-20 14:06:20,Saving Bank account 1,Family,misc,"Soap, shampoo, razor",420.9,Expense,PKR,20,5,2018,No
+2018-05-21 14:06:05,Cash,Family,Pocket money,,483.0,Expense,PKR,21,5,2018,No
+2018-05-22 20:47:36,Cash,Health,Health,2 All out refill,531.3000000000001,Expense,PKR,22,5,2018,No
+2018-05-23 21:20:18,Credit Card,subscription,Tata Sky,Permanent Residence - Tata Play recharge,572.7,Expense,PKR,23,5,2018,No
+2018-05-24 09:04:01,Saving Bank account 1,subscription,Mobile Service Provider,Data booster pack,2301.15,Expense,PKR,24,5,2018,No
+2018-05-26 07:55:09,Cash,Transportation,auto,Permanent Residence to Motor Driving school,172.5,Expense,PKR,26,5,2018,No
+2018-05-27 10:50:10,Saving Bank account 2,Interest,,interest paid,96.6,Income,PKR,27,5,2018,No
+2018-05-27 10:50:10,Cash,Household,Kirana,Soap + dahya pav kg,258.75,Expense,PKR,27,5,2018,No
+2018-05-28 10:41:59,Cash,Beauty,grooming,hair cut,345.0,Expense,PKR,28,5,2018,No
+2018-05-28 14:11:17,Credit Card,subscription,Mobile Service Provider,Data booster pack,86.25,Expense,PKR,28,5,2018,No
+2018-05-30 07:42:56,Saving Bank account 1,Dividend earned on Shares,,HDFC Stocks,303.6,Income,PKR,30,5,2018,No
+2018-05-31 08:47:33,Saving Bank account 1,Salary,,From workplace ,224712.3,Income,PKR,31,5,2018,Yes
+2018-06-15 09:24:33,Saving Bank account 1,Transportation,train,2CC Place 2 to DDR Spl Train,4186.92,Expense,PKR,15,6,2018,No
+2018-06-15 21:19:39,Saving Bank account 1,subscription,Mobile Service Provider,Data booster pack,51.75,Expense,PKR,15,6,2018,No
+2018-06-16 09:01:39,Saving Bank account 1,Share Market,,,29325.0,Transfer-Out,PKR,16,6,2018,Yes
+2018-06-18 22:18:59,Saving Bank account 1,subscription,Mobile Service Provider,Data booster pack,51.75,Expense,PKR,18,6,2018,No
+2018-06-19 10:25:47,Saving Bank account 1,subscription,Mobile Service Provider,Data booster pack,86.25,Expense,PKR,19,6,2018,No
+2018-06-19 13:24:01,Saving Bank account 1,Family,Pocket money,,6900.0,Expense,PKR,19,6,2018,No
+2018-06-22 15:32:22,Saving Bank account 1,subscription,Mobile Service Provider,Data booster pack,624.45,Expense,PKR,22,6,2018,No
+2018-06-23 10:15:35,Cash,Transportation,auto,,103.5,Expense,PKR,23,6,2018,No
+2018-06-23 19:25:22,Credit Card,subscription,Mobile Service Provider,Annual recharge,8780.25,Expense,PKR,23,6,2018,No
+2018-06-24 11:00:13,Cash,Food,snacks,2 Vadapav 2 samosa pav,207.0,Expense,PKR,24,6,2018,No
+2018-06-24 11:29:20,Credit Card,subscription,Tata Sky,Permanent Residence - Tata Play recharge,541.65,Expense,PKR,24,6,2018,No
+2018-06-24 13:31:06,Cash,Transportation,Train,2 Place 5 to Place 0,103.5,Expense,PKR,24,6,2018,No
+2018-06-24 14:37:00,Credit Card,Health,Health,Suppliemnts,730.5375,Expense,PKR,24,6,2018,No
+2018-06-24 16:11:07,Saving Bank account 1,Food,Milk,milk 1lit ,248.4,Expense,PKR,24,6,2018,No
+2018-06-24 16:11:17,Saving Bank account 1,Food,breakfast,Bread,62.1,Expense,PKR,24,6,2018,No
+2018-06-24 16:11:39,Cash,Transportation,auto,2 Place 0 to Current Residence,138.0,Expense,PKR,24,6,2018,No
+2018-06-25 14:23:22,Credit Card,Household,Kirana,Smart point,7155.3,Expense,PKR,25,6,2018,No
+2018-06-25 15:09:49,Saving Bank account 1,Food,Lunch,Home Food Delivery,1104.0,Expense,PKR,25,6,2018,No
+2018-06-26 11:44:48,Cash,Food,snacks,Bhaji + vadapav,103.5,Expense,PKR,26,6,2018,No
+2018-06-26 11:45:49,Cash,Food,Tea,2 cutting chai,69.0,Expense,PKR,26,6,2018,No
+2018-06-26 11:47:08,Cash,Transportation,Train,Place 0 to Place 4 return,69.0,Expense,PKR,26,6,2018,No
+2018-06-26 12:49:54,Saving Bank account 1,Household,Hardware,Umbrella handle repair,241.5,Expense,PKR,26,6,2018,No
+2018-06-26 17:25:23,Saving Bank account 1,Household,Appliances,Aqugurad water purifier,45022.5,Expense,PKR,26,6,2018,Yes
+2018-06-26 19:47:42,Credit Card,Household,Kirana,Supermart,6865.5,Expense,PKR,26,6,2018,No
+2018-06-26 19:47:42,Cash,Transportation,auto,2 Place 0 to Current Residence,103.5,Expense,PKR,26,6,2018,No
+2018-06-27 06:30:08,Share Market Trading,Saving Bank account 1,,Refund,8796.085500000001,Transfer-Out,PKR,27,6,2018,No
+2018-06-27 13:59:52,Cash,Transportation,auto,2 Current Residence to Place 0,103.5,Expense,PKR,27,6,2018,No
+2018-06-27 14:00:32,Cash,Transportation,Train,2 Place 0 to Place P return,276.0,Expense,PKR,27,6,2018,No
+2018-06-27 18:18:28,Cash,Transportation,auto,Place P station to Alfa market,86.25,Expense,PKR,27,6,2018,No
+2018-06-27 18:19:27,Credit Card,Apparel,Footwear,Rainy season chappal,1897.5,Expense,PKR,27,6,2018,No
+2018-06-27 18:43:23,Credit Card,Apparel,Accessories,Purse,1552.5,Expense,PKR,27,6,2018,No
+2018-06-27 18:46:33,Credit Card,Other,,Shopping at Alfa,16284.0,Expense,PKR,27,6,2018,No
+2018-06-27 18:46:48,Cash,Household,gadgets,Mouse pad,345.0,Expense,PKR,27,6,2018,No
+2018-06-27 18:48:45,Cash,Household,gadgets,Mobile cover real mi note pro,345.0,Expense,PKR,27,6,2018,No
+2018-06-27 18:53:54,Cash,Food,Tea,2 cups,48.3,Expense,PKR,27,6,2018,No
+2018-06-27 19:11:09,Saving Bank account 1,Other,,From Family,10350.0,Income,PKR,27,6,2018,No
+2018-06-27 21:32:27,Credit Card,Tourism,Entry Fees,Planetarium,1065.5325,Expense,PKR,27,6,2018,No
+2018-06-28 10:08:21,Credit Card,Apparel,Footwear,Mast & Harbour Slides,223.629,Expense,PKR,28,6,2018,No
+2018-06-28 15:06:59,Cash,Transportation,Taxi,Vadala road to Nehru Planetarium,786.6,Expense,PKR,28,6,2018,No
+2018-06-28 18:35:52,Cash,Food,snacks,Bhaji + vadapav + kachori+ tea,241.5,Expense,PKR,28,6,2018,No
+2018-06-28 20:44:36,Credit Card,Food,Dinner,Home Food Delivery,1569.75,Expense,PKR,28,6,2018,No
+2018-06-29 15:28:46,Cash,Household,Appliances,3 bulbs 3 pencil cells,931.5,Expense,PKR,29,6,2018,No
+2018-06-29 16:10:41,Cash,Household,Kitchen,Math tap repair,172.5,Expense,PKR,29,6,2018,No
+2018-06-29 16:13:02,Cash,Household,Hardware,Tulsi plant+ pot,241.5,Expense,PKR,29,6,2018,No
+2018-06-29 17:01:00,Saving Bank account 1,Dividend earned on Shares,,HUL Stocks,151.8,Income,PKR,29,6,2018,No
+2018-06-30 08:44:48,Saving Bank account 1,Salary,,From workplace ,224670.9,Income,PKR,30,6,2018,Yes
+2018-06-30 08:45:18,Saving Bank account 1,Interest,,interest paid,1179.9,Income,PKR,30,6,2018,No
+2018-06-30 08:45:37,Saving Bank account 1,Dividend earned on Shares,,Asian paints Stocks,148.35,Income,PKR,30,6,2018,No
+2018-06-30 18:47:45,Saving Bank account 1,Household,Appliances,Aqugurad PRV,4140.0,Expense,PKR,30,6,2018,No
+2018-07-13 09:36:19,Credit Card,Health,Medicine,Cataract Medicine,4685.1,Expense,PKR,13,7,2018,No
+2018-07-13 14:02:44,Saving Bank account 1,Transportation,Taxi,Ola cab - eye institute to Current Residence CHS,648.6,Expense,PKR,13,7,2018,No
+2018-07-14 18:10:13,Saving Bank account 1,Other,,CA  - income tax filing,6900.0,Expense,PKR,14,7,2018,No
+2018-07-15 09:41:01,Cash,Food,snacks,4 kachori,165.60000000000002,Expense,PKR,15,7,2018,No
+2018-07-15 18:01:59,Cash,Food,vegetables,,1725.0,Expense,PKR,15,7,2018,No
+2018-07-15 19:12:57,Cash,Food,fruits,,103.5,Expense,PKR,15,7,2018,No
+2018-07-16 10:41:01,Cash,Food,snacks,7 kachori,289.8,Expense,PKR,16,7,2018,No
+2018-07-16 10:43:53,Credit Card,Household,Hardware,Sony WI-C100 earphones wireless,4105.5,Expense,PKR,16,7,2018,No
+2018-07-16 17:51:56,Cash,Apparel,Laundry,12 clothes ironing,289.8,Expense,PKR,16,7,2018,No
+2018-07-18 20:26:03,Cash,Food,flour mill,M D sure 4kg atta,745.2,Expense,PKR,18,7,2018,No
+2018-07-19 20:25:13,Cash,Food,curd,Dahi 4 packets,138.0,Expense,PKR,19,7,2018,No
+2018-07-20 09:11:48,Credit Card,Health,Medicine,Cataract Medicine,3615.6,Expense,PKR,20,7,2018,No
+2018-07-20 12:29:28,Cash,Health,Medicine,Cataract Medicine,300.15000000000003,Expense,PKR,20,7,2018,No
+2018-07-20 13:06:14,Saving Bank account 1,Transportation,Taxi,Ola cab - eye institute to Current Residence CHS,534.75,Expense,PKR,20,7,2018,No
+2018-07-20 19:58:46,Cash,Food,Onions,onion 1 kg,86.25,Expense,PKR,20,7,2018,No
+2018-07-20 19:59:08,Cash,Food,Potato,potato 1kg,86.25,Expense,PKR,20,7,2018,No
+2018-07-20 19:59:46,Cash,Food,Ice cream,chocobar,69.0,Expense,PKR,20,7,2018,No
+2018-07-21 08:42:11,Cash,Food,Biscuits,Toast packet,155.25,Expense,PKR,21,7,2018,No
+2018-07-21 18:37:38,Saving Bank account 1,Food,snacks,2 Bhajipav + 2 vadapav,207.0,Expense,PKR,21,7,2018,No
+2018-07-21 19:02:16,Cash,Food,fruits,Khajur pav kg,103.5,Expense,PKR,21,7,2018,No
+2018-07-21 19:02:36,Cash,Household,Kirana,Supermart,1269.6,Expense,PKR,21,7,2018,No
+2018-07-23 12:33:32,Cash,Food,breakfast,4 plates poha,345.0,Expense,PKR,23,7,2018,No
+2018-07-23 12:49:29,Credit Card,subscription,Tata Sky,Current Residence - Tata Play recharge,531.3000000000001,Expense,PKR,23,7,2018,No
+2018-07-26 13:44:31,Saving Bank account 1,Tax refund,,,23391.0,Income,PKR,26,7,2018,No
+2018-07-26 23:06:09,Cash,Food,Biscuits,Toast packet,138.0,Expense,PKR,26,7,2018,No
+2018-07-27 18:39:39,Saving Bank account 1,Other,,Demat account charges,2849.7000000000003,Expense,PKR,27,7,2018,No
+2018-07-28 20:45:00,Credit Card,Household,Kirana,Supermart,12937.5,Expense,PKR,28,7,2018,No
+2018-07-28 21:30:49,Cash,Food,vegetables,,672.75,Expense,PKR,28,7,2018,No
+2018-07-28 23:42:57,Debit Card,Culture,Movie,2 INOX ,1660.6920000000002,Expense,PKR,28,7,2018,No
+2018-07-28 23:42:57,Cash,Family,Pocket money,,690.0,Expense,PKR,28,7,2018,No
+2018-07-29 10:12:59,Cash,Food,breakfast,Medu vada 3 plate,362.25,Expense,PKR,29,7,2018,No
+2018-07-29 11:38:08,Saving Bank account 1,Transportation,Train,2 Place 0 to Place A returns,138.0,Expense,PKR,29,7,2018,No
+2018-07-29 11:39:53,Cash,Transportation,auto,Current Residence to Place 0,51.75,Expense,PKR,29,7,2018,No
+2018-07-29 15:52:47,Cash,Transportation,auto,Decathlon Place A to Place A station,172.5,Expense,PKR,29,7,2018,No
+2018-07-29 19:29:54,Saving Bank account 1,Food,Eating out,Paneer pizza,897.0,Expense,PKR,29,7,2018,No
+2018-07-30 11:49:11,Cash,Food,breakfast,1 plates poha,86.25,Expense,PKR,30,7,2018,No
+2018-07-30 13:19:36,Saving Bank account 1,Food,Lunch,Catering Service,731.4000000000001,Expense,PKR,30,7,2018,No
+2018-07-30 13:19:56,Cash,Health,Medicine,,455.4,Expense,PKR,30,7,2018,No
+2018-07-30 18:44:23,Cash,Health,Medicine,Glucose D(50) + flora bc (40)+cyra 20(10),345.0,Expense,PKR,30,7,2018,No
+2018-07-31 09:05:17,Saving Bank account 1,Salary,,From workplace ,242379.75,Income,PKR,31,7,2018,Yes
+2018-07-31 13:44:15,Cash,Food,chocolate,10 melody,34.5,Expense,PKR,31,7,2018,No
+2018-07-31 13:45:08,Cash,maid,,July salary,6900.0,Expense,PKR,31,7,2018,No
+2018-07-31 18:01:20,Saving Bank account 1,Money transfer,Home,,103500.0,Expense,PKR,31,7,2018,Yes
+2018-07-31 21:52:08,Cash,Apparel,Laundry,13 clothes ironing,313.95,Expense,PKR,31,7,2018,No
+2018-08-13 10:04:23,Cash,Food,Ice cream,chocobar,69.0,Expense,PKR,13,8,2018,No
+2018-08-13 10:04:36,Cash,Food,Ice cream,Vanila cup,34.5,Expense,PKR,13,8,2018,No
+2018-08-13 18:33:36,Cash,Household,Kirana,Supermart,2049.3,Expense,PKR,13,8,2018,No
+2018-08-13 18:35:18,Cash,Food,Grocery,Half kg Lahsoon,155.25,Expense,PKR,13,8,2018,No
+2018-08-13 18:36:01,Cash,Household,home decor,Brass Puja plate and diva,759.0,Expense,PKR,13,8,2018,No
+2018-08-13 18:37:27,Cash,Household,Appliances,5 litres can Distilled water,345.0,Expense,PKR,13,8,2018,No
+2018-08-14 09:46:54,Cash,Food,Ice cream,Vanila family pack,396.75,Expense,PKR,14,8,2018,No
+2018-08-14 09:48:42,Cash,Apparel,Laundry,8 clothes ironing,193.2,Expense,PKR,14,8,2018,No
+2018-08-14 09:50:12,Cash,Household,Kirana,Toothpaste Patanjali,552.0,Expense,PKR,14,8,2018,No
+2018-08-14 09:51:30,Cash,Food,snacks,Dahi,110.4,Expense,PKR,14,8,2018,No
+2018-08-14 10:04:52,Cash,Family,Pocket money,,103.5,Expense,PKR,14,8,2018,No
+2018-08-14 10:59:46,Saving Bank account 1,Dividend earned on Shares,,ITC Stocks,427.8,Income,PKR,14,8,2018,No
+2018-08-15 09:11:44,Cash,Food,flour mill,M D sure 4kg atta,745.2,Expense,PKR,15,8,2018,No
+2018-08-15 09:44:05,Cash,Food,Sweets,Warna Srikhand half kg,1000.5,Expense,PKR,15,8,2018,No
+2018-08-16 19:08:01,Credit Card,subscription,Tata Sky,Permanent Residence - Tata Play recharge,541.65,Expense,PKR,16,8,2018,No
+2018-08-17 12:40:28,Saving Bank account 1,Dividend earned on Shares,,Pidilite Stocks,75.9,Income,PKR,17,8,2018,No
+2018-08-17 19:21:17,Cash,Food,Milk,Half lit  milk,124.2,Expense,PKR,17,8,2018,No
+2018-08-17 20:06:32,Saving Bank account 1,Food,curd,Dahi 2 packets,69.0,Expense,PKR,17,8,2018,No
+2018-08-21 16:15:20,Cash,Food,Milk,Half lit  milk,124.2,Expense,PKR,21,8,2018,No
+2018-08-21 16:15:46,Cash,Food,Tea,cutting chai,41.400000000000006,Expense,PKR,21,8,2018,No
+2018-08-22 22:31:36,Cash,Food,Milk,Half lit  milk,127.65,Expense,PKR,22,8,2018,No
+2018-08-23 19:55:33,Saving Bank account 1,Food,Lunch,Catering Service,207.0,Expense,PKR,23,8,2018,No
+2018-08-23 21:29:12,Credit Card,Transportation,train,2 Place 3 to Place 2 : Amritsar express 3AC,4158.63,Expense,PKR,23,8,2018,No
+2018-08-23 21:29:52,Credit Card,Transportation,train,2 Place 2 to Place 3 : Sevagram express 3AC,4503.63,Expense,PKR,23,8,2018,No
+2018-08-24 13:34:14,Cash,Festivals,Navratri,Ganpati+ navratri vargani,3450.0,Expense,PKR,24,8,2018,No
+2018-08-24 20:17:09,Cash,Food,Milk,Half lit  milk,124.2,Expense,PKR,24,8,2018,No
+2018-08-24 20:20:37,Cash,Food,Rajgira ladu,,69.0,Expense,PKR,24,8,2018,No
+2018-08-24 22:12:17,Saving Bank account 1,Other,,From Family,3450.0,Income,PKR,24,8,2018,No
+2018-08-24 22:13:43,Credit Card,Food,Dinner,Home Food Delivery,3864.0,Expense,PKR,24,8,2018,No
+2018-08-25 21:04:46,Cash,Apparel,Laundry,13 clothes ironing,313.95,Expense,PKR,25,8,2018,No
+2018-08-26 21:04:46,Saving Bank account 1,Interest,,interest paid,103.5,Income,PKR,26,8,2018,No
+2018-08-27 10:52:09,Cash,Food,Milk,Half lit  milk,124.2,Expense,PKR,27,8,2018,No
+2018-08-27 10:52:30,Cash,Food,Biscuits,Khari packet,155.25,Expense,PKR,27,8,2018,No
+2018-08-27 10:52:51,Cash,Food,breakfast,2 plates poha,207.0,Expense,PKR,27,8,2018,No
+2018-08-27 21:30:16,Cash,Food,curd,Dahi 2 packets,69.0,Expense,PKR,27,8,2018,No
+2018-08-28 19:16:09,Saving Bank account 1,Dividend earned on Shares,,Reliance Stocks,62.1,Income,PKR,28,8,2018,No
+2018-08-28 21:04:56,Saving Bank account 1,Dividend earned on Shares,,Astral Stocks,23.2875,Income,PKR,28,8,2018,No
+2018-08-29 12:11:41,Cash,Food,Milk,Half lit  milk,124.2,Expense,PKR,29,8,2018,No
+2018-08-29 12:21:49,Cash,Food,Grocery,Baking soda,93.15,Expense,PKR,29,8,2018,No
+2018-08-29 12:21:49,Cash,Food,Ice cream,chocobar,51.75,Expense,PKR,29,8,2018,No
+2018-08-30 21:09:51,Cash,Household,Kirana,Supermart,1183.35,Expense,PKR,30,8,2018,No
+2018-08-30 21:10:24,Cash,Food,Sweets,Warna Srikhand pav kg,269.1,Expense,PKR,30,8,2018,No
+2018-08-31 09:26:17,Cash,Food,Milk,Half lit  milk,124.2,Expense,PKR,31,8,2018,No
+2018-08-31 09:27:28,Saving Bank account 1,Salary,,From workplace ,242379.75,Income,PKR,31,8,2018,Yes
+2018-08-31 10:01:15,Credit Card,Food,Dinner,Domino's Pizza,1762.4325,Expense,PKR,31,8,2018,No
+2018-08-31 15:12:20,Cash,Gift,,farewell contribution,407.1,Expense,PKR,31,8,2018,No
+2018-08-31 15:12:20,Cash,Family,Pocket money,,3450.0,Expense,PKR,31,8,2018,No
+2018-09-13 21:01:32,Cash,Food,Grocery,1kg atta,158.70000000000002,Expense,PKR,13,9,2018,No
+2018-09-13 21:01:47,Credit Card,Other,,HBR 2 Months subscription,286.35,Expense,PKR,13,9,2018,No
+2018-09-13 21:35:15,Saving Bank account 1,Transportation,Train,2 Place 0 to Place 3,138.0,Expense,PKR,13,9,2018,No
+2018-09-14 05:39:17,Cash,Transportation,auto,Place 2 station to Permanent Residence,172.5,Expense,PKR,14,9,2018,No
+2018-09-15 06:34:17,Credit Card,subscription,Tata Sky,Permanent Residence - Tata Play recharge,690.0,Expense,PKR,15,9,2018,No
+2018-09-16 17:15:08,Cash,Festivals,Ganesh Pujan,Ganesh idol,865.95,Expense,PKR,16,9,2018,No
+2018-09-17 23:41:17,Saving Bank account 1,subscription,Mobile Service Provider,Data booster pack,65.55,Expense,PKR,17,9,2018,No
+2018-09-20 12:03:15,Cash,Food,snacks,Idli medu Vada mix 2 plates,207.0,Expense,PKR,20,9,2018,No
+2018-09-20 12:04:08,Cash,Transportation,Train,2 Place 5 to Place 0,103.5,Expense,PKR,20,9,2018,No

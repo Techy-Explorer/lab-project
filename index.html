@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>BACHAT - Add Expense</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body class="dashboard-body">
+
+  <div class="expense-container slide-in">
+    <h1 class="title">Add Expense</h1>
+
+    <div class="form-row">
+
+      <div class="form-group">
+        <label>Date</label>
+        <input id="date" type="date">
+      </div>
+
+      <div class="form-group">
+        <label>Mode</label>
+        <input id="mode" type="text" placeholder="Cash, Card...">
+      </div>
+
+      <div class="form-group">
+        <label>Category</label>
+        <input id="category" type="text">
+      </div>
+
+      <div class="form-group">
+        <label>Subcategory</label>
+        <input id="subcategory" type="text">
+      </div>
+
+      <div class="form-group">
+        <label>Note</label>
+        <input id="note" type="text">
+      </div>
+
+    </div>
+
+    <div class="form-row">
+
+      <div class="form-group">
+        <label>Amount</label>
+        <input id="amount" type="number">
+      </div>
+
+      <div class="form-group">
+        <label>Type</label>
+        <select id="type">
+          <option value="expense">Expense</option>
+          <option value="income">Income</option>
+        </select>
+      </div>
+
+      <div class="form-group">
+        <label>Currency</label>
+        <input id="currency" type="text">
+      </div>
+
+      <div class="form-group">
+        <label>Anomaly (0/1)</label>
+        <input id="anomaly" type="number">
+      </div>
+
+    </div>
+
+    <div class="form-row">
+
+      <div class="form-group">
+        <label>Day</label>
+        <input id="day" type="number">
+      </div>
+
+      <div class="form-group">
+        <label>Month</label>
+        <input id="month" type="number">
+      </div>
+
+      <div class="form-group">
+        <label>Year</label>
+        <input id="year" type="number">
+      </div>
+
+    </div>
+
+    <button class="save-btn" onclick="sendExpense()">Save Expense</button>
+
+  </div>
+
+  <script src="script.js"></script>
+
+</body>
+
+</html>
